@@ -1,2 +1,2 @@
 # uaz-herps
-Feedback and usage report repository for UAZ data set XXXXX.
+Issue tracking for UAZ herps data in the VertNet and other data portals. This data set corresponds to GBIF data set XXXX.
