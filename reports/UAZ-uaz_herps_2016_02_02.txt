@@ -1,0 +1,234 @@
+Report for Institution Code UAZ, Resource Herpetology
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 3761
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Russia ; Times: 15
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 56
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-07 ; Times: 14
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-17 ; Times: 3
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-22 ; Times: 9
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-24 ; Times: 6
+	Date: 2016-01-25 ; Times: 6
+	Date: 2016-01-26 ; Times: 6
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "33490" ; Times: 1
+	Query: "anolis barkeri" ; Times: 1
+	Query: "Liolaemus wiegmannii" ; Times: 1
+	Query: "type:specimen specificepithet:radiata genus:elaphe" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 2
+	Query: "Northern Cat Eyed Snake" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "ucla 296" ; Times: 2
+	Query: "HYPSIGLENA TANZERI" ; Times: 1
+	Query: "genus:Hemidactylus; stateprovince:"AL"" ; Times: 1
+	Query: "locality:cedros stateprovince:"baja california" country:"mexico" year >= 1904 year <= 1906" ; Times: 1
+	Query: "Acanthodactylus longipes" ; Times: 1
+	Query: "Timber Rattlesnake" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "coniophanes fissidens oaxaca" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 2
+	Query: "monster" ; Times: 11
+	Query: ""naja naja"" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(35.178298352001185,-111.9232177734375))<24987.54671807781" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 3
+	Query: "Chiropterotriton chiropterus stateprovince:"veracruz"" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "liolaemus wiegmannii" ; Times: 3
+	Query: "Eleutherodactylus dennisi" ; Times: 1
+	Query: "imantodes gemmistratus oaxaca" ; Times: 1
+	Query: "ficimia publia oaxaca" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "distance(location,geopoint(28.239036,-108.937516))<15000" ; Times: 1
+	Query: "western spadefoot" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx county:"pima" stateprovince:"arizona"" ; Times: 2
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "genus:elgaria stateprovince:"baja california" country:"mexico" year >= 1900 year <= 1910" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "1111 class:Reptilia county:"hudspeth" stateprovince:"Texas"" ; Times: 1
+	Query: "ctenosaura defensor" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "1111 class:Reptilia stateprovince:"Texas"" ; Times: 1
+	Query: "bufo cristatus stateprovince:"veracruz"" ; Times: 1
+	Query: "ensatina county:"Orange"" ; Times: 1
+	Query: "Salvadora California inyo" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Aspidoscelis opatae" ; Times: 1
+	Query: "family:Helodermatidae stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 2
+	Query: "Plethodon vandykei county:"Grays harbor"" ; Times: 1
+	Query: "Crotalus mitchellii Nevada" ; Times: 1
+	Query: "Lepidophyma sylvaticum" ; Times: 1
+	Query: "Uma (Mohawk)" ; Times: 2
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Uma mohawk" ; Times: 1
+	Query: "Mesoscincus schwartzei" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.557516))<15000" ; Times: 1
+	Query: "persons diadophis arizona" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Hyla bistincta" ; Times: 1
+	Query: "elgaria paucicarinata" ; Times: 2
+	Query: "Trapelus mutabilis" ; Times: 1
+	Query: "ornate box turtle year >= 2002 year <= 2016" ; Times: 1
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "Rainbow Snake" ; Times: 3
+	Query: "willardi year >= 1990 year <= 2016" ; Times: 1
+	Query: "Leptodeira frenata" ; Times: 1
+	Query: "oxybelis arizona" ; Times: 2
+	Query: "42565" ; Times: 1
+	Query: "Spea intermontana stateprovince:"Oregon"" ; Times: 1
+	Query: "genus:Hemidactylus stateprovince:"AL"" ; Times: 1
+	Query: "Juniperus" ; Times: 1
+	Query: "vaillanti mexico" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "Dendrophidion vinitor" ; Times: 1
+	Query: "incilius cristatus stateprovince:"veracruz"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 48 (out of 507 download events in this period)
+Total number of records downloaded: 6847 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2345
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-17 ; Times: 2
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 5
+	Date: 2016-01-21 ; Times: 5
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "Liolaemus wiegmannii" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "ficimia publia oaxaca" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "coniophanes fissidens oaxaca" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: ""Santa Cruz Island" class:Reptilia stateprovince:"California"" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "Puebla type:specimen class:amphibia" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "1111 class:Reptilia county:"hudspeth" stateprovince:"Texas"" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 1
+	Query: "Crotalus mitchellii Nevada" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Craugastor rugulosus" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "Teius" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Uma mohawk" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "HYPSIGLENA TANZERI" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: ""naja naja"" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 48
+Total number of records downloaded: 6847
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 110
+Total number of records retrieved from searches: 3761
+Number of download events that retrieved data from the resource: 48
+Total number of records downloaded: 6847
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
