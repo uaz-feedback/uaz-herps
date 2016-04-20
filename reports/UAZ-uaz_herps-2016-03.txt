@@ -1,0 +1,119 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 1618
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 31
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 5
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 8
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 5
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-13 ; Times: 3
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "type:specimen institutioncode:UAZ" ; Times: 1
+	Query: "type:specimen (Santa Barbara Island ) institutioncode:UAZ" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "genus:Smilisca class:Amphibia country:&#34;Mexico&#34; year &gt;= 1977 year &lt;= 1978" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "Western fence lizard" ; Times: 1
+	Query: "&#34;Bufo microscaphus&#34; Arizona" ; Times: 2
+	Query: "crotalus tigris" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "type:specimen (San Miguel Island ) institutioncode:UAZ" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Plectrohyla matudai Chiapas" ; Times: 1
+	Query: "Bufo retiformis" ; Times: 2
+	Query: "Plectrohyla Chiapas" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 3
+	Query: "type:specimen (Santa Rosa Island ) institutioncode:UAZ" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "xantusia bezyi" ; Times: 3
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "type:specimen (Santa Cruz Island ) institutioncode:UAZ" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Ophryacus distance(location,geopoint(20.92039691397189,-100.96435546875))&lt;323885" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen ( Santa Barbara Island) institutioncode:UAZ" ; Times: 1
+	Query: "Rana amurensis" ; Times: 1
+	Query: "Hyla bistincta" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 230 download events in this period)
+Total number of records downloaded: 9883
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "&#34;Sauromalus ater&#34; Arizona" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+	Query: "type:specimen (Santa Catalina Island ) institutioncode:UAZ" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Ambystoma ordinarium mappable:1" ; Times: 1
+
+
+End of report.
