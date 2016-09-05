@@ -1,0 +1,276 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 4838
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 163
+	Country: Mexico ; Times: 37
+	Country: Unknown ; Times: 12
+	Country: United Kingdom ; Times: 13
+	Country: Colombia ; Times: 4
+	Country: United Arab Emirates ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 5
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 11
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-14 ; Times: 12
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 15
+	Date: 2016-08-17 ; Times: 10
+	Date: 2016-08-18 ; Times: 33
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-30 ; Times: 18
+	Date: 2016-08-31 ; Times: 7
+	Date: 2016-08-29 ; Times: 2
+	Date: 2016-08-28 ; Times: 6
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-24 ; Times: 24
+	Date: 2016-08-27 ; Times: 15
+	Date: 2016-08-26 ; Times: 19
+	Date: 2016-08-21 ; Times: 8
+	Date: 2016-08-20 ; Times: 12
+	Date: 2016-08-23 ; Times: 19
+	Date: 2016-08-22 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen (Craugastor PYGMAeus)" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "UAZ 57474" ; Times: 3
+	Query: "UAZ 56986" ; Times: 1
+	Query: "Uta nolascensis" ; Times: 1
+	Query: "trimorphodon new mexico" ; Times: 2
+	Query: "chionactis occipitalis arizona" ; Times: 2
+	Query: "Graham county modestum" ; Times: 1
+	Query: "amphibia punctatus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 4
+	Query: "smooth earthsnake" ; Times: 4
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Aspidoscelis sackii" ; Times: 2
+	Query: "54750" ; Times: 1
+	Query: "alvarius year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 7
+	Query: "crotalus san juan new mexico" ; Times: 1
+	Query: "salvadora intermedia" ; Times: 7
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Crotalus (madera) year &gt;= 1930 year &lt;= 2016" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "Cochise county Heterodon" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "micrurus proximans" ; Times: 1
+	Query: "Smooth Green Snake" ; Times: 1
+	Query: "genus:Lampropeltis lengthtype:total length haslength:1" ; Times: 1
+	Query: "Lampropeltis county:&#34;Tooele&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Lithobates yavapaiensis" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "ficimia" ; Times: 1
+	Query: "Kinosternon arizonense" ; Times: 1
+	Query: "rosy boa" ; Times: 2
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "chionactis occipitalis arizona Cabeza" ; Times: 1
+	Query: "Pseudoficimia" ; Times: 1
+	Query: "smooth green snake" ; Times: 2
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "triangulum arizona AND (uaz)" ; Times: 2
+	Query: "nuntius arizona" ; Times: 2
+	Query: "CA 11098" ; Times: 3
+	Query: "monster" ; Times: 6
+	Query: "triangulum coconino" ; Times: 9
+	Query: "genus:uta stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Yuma county mitchellii" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "triangulum arizona" ; Times: 7
+	Query: "arroyo toad" ; Times: 1
+	Query: "triangulum navajo" ; Times: 1
+	Query: "lampropeltis stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "Arizona mud turtle" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "phrynosoma ditmarsi" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "specificepithet:publia genus:ficimia" ; Times: 1
+	Query: "clelia mexico" ; Times: 1
+	Query: "San Bernardino county charina" ; Times: 1
+	Query: "Lampropeltis pyromelana coconino" ; Times: 2
+	Query: "Reptilia stateprovince:&#34;Louisiana&#34; institutioncode:UAZ" ; Times: 1
+	Query: "elgaria cochise" ; Times: 4
+	Query: "recordedby:Lowe catalognumber:UAZ 21446 institutioncode:UAZ" ; Times: 1
+	Query: "Heterodon Cochise county" ; Times: 1
+	Query: "Thamnophis errans" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 4
+	Query: "Kino sonora colubridae" ; Times: 3
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 1
+	Query: "lampropeltis san juan new mexico" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "CA 5051" ; Times: 1
+	Query: "Crotalus (san joaquin) year &gt;= 1930 year &lt;= 2016" ; Times: 1
+	Query: "notiosorex mexico" ; Times: 2
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "porthidium yucatanicum" ; Times: 1
+	Query: "Heterodon Willcox" ; Times: 3
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 2
+	Query: "Thamnophis eques Sonora" ; Times: 2
+	Query: "mud salamander" ; Times: 1
+	Query: "Amphibia stateprovince:&#34;Louisiana&#34; institutioncode:UAZ" ; Times: 1
+	Query: "Anolis nebulosus 1" ; Times: 2
+	Query: "catenatus arizona" ; Times: 1
+	Query: "catenatus arizona graham" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 2
+	Query: "Graham county sistrurus" ; Times: 1
+	Query: "Craugastor pygmaeus" ; Times: 1
+	Query: "Incilius mazatlanensis" ; Times: 1
+	Query: "triangulum arizona cochise" ; Times: 1
+	Query: "pyromelana coconino" ; Times: 1
+	Query: "reptilia wupatki" ; Times: 2
+	Query: "bothriechis mexico" ; Times: 2
+	Query: "Crotalus tigris" ; Times: 14
+	Query: "trimorphodon biscutatus new mexico" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 1
+	Query: "genus:sibon stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "Cryptobranchus stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:pectinata genus:Ctenosaura stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "locality:saratoga recordedby:Lowe year &gt;= 1949 institutioncode:UAZ" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "Anolis barkeri 1" ; Times: 2
+	Query: "micrurus annellatus" ; Times: 1
+	Query: "Anaxyrus kelloggi" ; Times: 1
+	Query: "UAZ 57438" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "recordedby:Lowe catalognumber:UAZ 21443 institutioncode:UAZ" ; Times: 1
+	Query: "genus:Micruroides" ; Times: 1
+	Query: "specificepithet:wilcoxi genus:Tantilla" ; Times: 1
+	Query: "family:Plethodontidae stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Plestiodon parvulus" ; Times: 2
+	Query: "Lampropeltis county:&#34;Salt Lake&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Leptodeira frenata" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "slender salamander" ; Times: 2
+	Query: "Lithobates pustulosus" ; Times: 1
+	Query: "Graham county Crotalus pricei" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "stilosoma extenuatum" ; Times: 1
+	Query: "specificepithet:intermedia genus:Salvadora stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hyla arenicolor new mexico" ; Times: 1
+	Query: "Craugastor Pygmaeus" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "desmognathus stateprovince:&#34;texas&#34; (desmognathus )" ; Times: 1
+	Query: "genus:Lampropeltis haslength:1" ; Times: 1
+	Query: "crotalus tlaxcala" ; Times: 1
+	Query: "Lampropeltis getula New Mexico" ; Times: 1
+	Query: "Micruroides euryxanthus la paz" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana" ; Times: 2
+	Query: "caracal caracal" ; Times: 2
+	Query: "Hyla wrightorum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 924 download events in this period)
+Total number of records downloaded: 25877
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: United Arab Emirates ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 6
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-27 ; Times: 4
+	Date: 2016-08-26 ; Times: 11
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-30 ; Times: 11
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-25 ; Times: 5
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "anolis stratulus" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Thamnophis elegans Nevada" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "anaxyrus terrestris stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; (county) year &gt;= 1700 year &lt;= 2016" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "Bufo Kelloggi" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "anolis poncensis" ; Times: 1
+	Query: "anolis rodriguezi" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "genus:Ficimia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "bufo cognatus new mexico" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "Dipsosaurus dorsalis Nevada" ; Times: 2
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "anolis crassulus" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Thousand Palms" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "type:specimen genus:Urosaurus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "type:specimen genus:Sceloporus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Snake Spring" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "Contia" ; Times: 1
+	Query: "genus:Hyla lengthtype:snout-vent length haslength:1" ; Times: 1
+
+
+End of report.
