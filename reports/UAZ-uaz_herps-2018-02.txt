@@ -1,0 +1,468 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 539
+Number of records retrieved in searches: 11929
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 320
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 198
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: China ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 11
+	Date: 2018-02-08 ; Times: 30
+	Date: 2018-02-03 ; Times: 8
+	Date: 2018-02-02 ; Times: 11
+	Date: 2018-02-01 ; Times: 11
+	Date: 2018-02-07 ; Times: 10
+	Date: 2018-02-06 ; Times: 31
+	Date: 2018-02-05 ; Times: 5
+	Date: 2018-02-21 ; Times: 10
+	Date: 2018-02-20 ; Times: 7
+	Date: 2018-02-23 ; Times: 57
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 68
+	Date: 2018-02-24 ; Times: 72
+	Date: 2018-02-27 ; Times: 24
+	Date: 2018-02-26 ; Times: 17
+	Date: 2018-02-28 ; Times: 10
+	Date: 2018-02-14 ; Times: 5
+	Date: 2018-02-15 ; Times: 19
+	Date: 2018-02-16 ; Times: 8
+	Date: 2018-02-17 ; Times: 4
+	Date: 2018-02-10 ; Times: 6
+	Date: 2018-02-11 ; Times: 12
+	Date: 2018-02-12 ; Times: 31
+	Date: 2018-02-13 ; Times: 62
+	Date: 2018-02-18 ; Times: 6
+	Date: 2018-02-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 1
+	Query: "genus:heloderma (male OR female) hassex:1" ; Times: 2
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "Incilius marmoreus sonora" ; Times: 1
+	Query: "boa Sonora" ; Times: 1
+	Query: "Crotalus willardi Sonora" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; (Heloderma suspectum)" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 3
+	Query: "catalognumber:06223 institutioncode:UAZ" ; Times: 1
+	Query: "Ophryacus Veracruz" ; Times: 1
+	Query: "Heloderma suspectum Sonora" ; Times: 1
+	Query: "Lepidophyma pajapanensis" ; Times: 1
+	Query: "Lampropeltis triangulum Sonora" ; Times: 1
+	Query: "anderson 1860" ; Times: 1
+	Query: "Anaxyrus retiformis sonora" ; Times: 1
+	Query: "Hypopachus variolosus sonora" ; Times: 1
+	Query: "Crotalus molossus nigrescens" ; Times: 1
+	Query: "Phrynosoma solare sonora" ; Times: 3
+	Query: "Kinosternon arizonense sonora" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "specificepithet:retiformis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "tantilla yaquia" ; Times: 7
+	Query: "Tiburon specificepithet:cerastes genus:Crotalus" ; Times: 3
+	Query: "Scaphiopus couchi sonora" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (Sceloporus Scalaris )" ; Times: 3
+	Query: "genus:drymarchon (male OR female) hassex:1" ; Times: 1
+	Query: "Crotalus viridis Colorado Clear Creek" ; Times: 1
+	Query: "Sistrurus Arizona graham" ; Times: 1
+	Query: "catalognumber:00472 institutioncode:UAZ" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "Micrurus distans Sonora" ; Times: 1
+	Query: "Spea multiplicata sonora" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:plestiodon hassex:1" ; Times: 1
+	Query: "Anaxyrus debilis sonora" ; Times: 1
+	Query: "(Gyalopion quadrangulare)" ; Times: 2
+	Query: "UAZ 05510" ; Times: 2
+	Query: "specificepithet:vipera genus:Cerastes" ; Times: 1
+	Query: "Urosaurus ornatus sonora" ; Times: 1
+	Query: "&#34;Melanosuchus niger&#34;" ; Times: 1
+	Query: "Aspidoscelis opatae Sonora" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:Aneides county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phrynosoma hernandesi sonora" ; Times: 3
+	Query: "Rana magnaocularis sonora" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "Lampropeltis triangulum delaware" ; Times: 1
+	Query: "Sceloporus horridus sonora" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "Lampropeltis pyromelana Sonora" ; Times: 1
+	Query: "Thamnophis pulchrilatus" ; Times: 1
+	Query: "Arizona elegans utah" ; Times: 1
+	Query: "Crotalus ASU" ; Times: 1
+	Query: "Arizona elegans Sonora" ; Times: 2
+	Query: "Pseudacris cadaverina california treefrog" ; Times: 1
+	Query: "Urosaurus graciosus sonora" ; Times: 1
+	Query: "Micruroides euryxanthus Sonora" ; Times: 1
+	Query: "Sauromalus varius Sonora" ; Times: 2
+	Query: "African clawed frog" ; Times: 1
+	Query: "catalognumber:29771 (Bufo)" ; Times: 2
+	Query: "specificepithet:inornatus genus:Aspidoscelis county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Diadophis punctatus Sonora" ; Times: 1
+	Query: "Anaxyrus cognatus sonora" ; Times: 1
+	Query: "Phrynosoma ditmarsi sonora" ; Times: 1
+	Query: "Heloderma horridum Sonora" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 24
+	Query: "Kinosternon arizonense" ; Times: 5
+	Query: "Imantodes Sonora" ; Times: 1
+	Query: "Phyllorhynchus browni Sonora" ; Times: 2
+	Query: "Ambystoma rosaceum sonora" ; Times: 1
+	Query: "Agkistrodon bilineatus Sonora" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 7
+	Query: "Salvadora grahamiae sonora" ; Times: 1
+	Query: "Thamnophis marcianus Sonora" ; Times: 1
+	Query: "Crotalus molossus Sonora" ; Times: 1
+	Query: "UCLA 17536" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;Arizona&#34; continent:North America institutioncode:UAZ" ; Times: 2
+	Query: "Smilisca fodiens sonora" ; Times: 3
+	Query: "CH 6650" ; Times: 1
+	Query: "Sauromalus hispidus Sonora" ; Times: 1
+	Query: "Crotalus cerastes Sonora" ; Times: 2
+	Query: "Phyllodactylus tuberculosus sonora" ; Times: 1
+	Query: "Caretta caretta Sonora" ; Times: 1
+	Query: "senticolis triaspis" ; Times: 1
+	Query: "Phrynosoma orbiculare sonora" ; Times: 2
+	Query: "Rana catesbeiana sonora" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;Arizona&#34; continent:North America month &gt;= 1 month &lt;= 3 institutioncode:UAZ" ; Times: 1
+	Query: "Leptophis diplotropis Sonora" ; Times: 1
+	Query: "specificepithet:inornatus genus:Aspidoscelis locality:Mazatzal stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Crotaphytus nebrius Sonora" ; Times: 1
+	Query: "Serpentes vntype:specimen stateprovince:&#34;zacatecas&#34; country:&#34;mexico&#34; continent:america" ; Times: 1
+	Query: "hale genus:rana" ; Times: 1
+	Query: "hyla smithii sonora" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "Phoenix Zoo" ; Times: 2
+	Query: "phrynosoma institutioncode:UAZ" ; Times: 4
+	Query: "mummy" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "aspidoscelis burti" ; Times: 2
+	Query: "uta palmeri sonora" ; Times: 2
+	Query: "Gastrophryne olivacea sonora" ; Times: 2
+	Query: "Hemidactylus turcicus Sonora" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "phrynosoma ditmarsi" ; Times: 1
+	Query: "california kingsnake" ; Times: 2
+	Query: "Chilomeniscus stramineus Sonora" ; Times: 1
+	Query: "Crotalus tigris Sonora" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Coahuila&#34;" ; Times: 4
+	Query: "lichanura arizona" ; Times: 4
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 3
+	Query: "monster" ; Times: 3
+	Query: "Thamnophis rufipunctatus Sonora" ; Times: 1
+	Query: "bothriechis (mexico)" ; Times: 1
+	Query: "Gopherus agassizii Sonora" ; Times: 1
+	Query: "Crotalus pricei Sonora" ; Times: 1
+	Query: "Reptilia Arizona haekel" ; Times: 1
+	Query: "hydrophis vntype:specimen institutioncode:UAZ" ; Times: 1
+	Query: "sceloporus scalaris stateprovince:&#34;Arizona&#34; country:&#34;united states&#34; hassex:1" ; Times: 1
+	Query: "Kinosternon alamosae sonora" ; Times: 1
+	Query: "Crotalus Pricei Arizona graham" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;Imperial&#34;" ; Times: 2
+	Query: "Ambystoma tigrinum sonora" ; Times: 1
+	Query: "craugastor augusti" ; Times: 14
+	Query: "diamondback terrapin" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Sauromalus ater Sonora" ; Times: 2
+	Query: "Rhinocheilus antoni" ; Times: 1
+	Query: "Gyalopion canum Sonora" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "Aspidoscelis sonorae Sonora" ; Times: 1
+	Query: "Rhinocheilus lecontei Sonora" ; Times: 3
+	Query: "Dermochelys coriacea Sonora" ; Times: 1
+	Query: "Salvadora hexalepis sonora" ; Times: 2
+	Query: "genus:trimorphodon (male OR female) hassex:1" ; Times: 1
+	Query: "leptophis diplotropis oaxaca" ; Times: 2
+	Query: "genus:senticolis hassex:1" ; Times: 1
+	Query: "western banded gecko" ; Times: 2
+	Query: "specificepithet:scabrum genus:Cyrtopodion year &gt;= 1980" ; Times: 1
+	Query: "hypsiglena tanzeri" ; Times: 6
+	Query: "Phrynosoma cornutum sonora" ; Times: 2
+	Query: "crotalus willardi" ; Times: 1
+	Query: "oxybelis arizona" ; Times: 3
+	Query: "Coleonyx variegatus Sonora" ; Times: 1
+	Query: "Aspidoscelis exsanguis Sonora" ; Times: 1
+	Query: "UCLA 17538" ; Times: 1
+	Query: "Board class:Reptilia country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 3
+	Query: "Sceloporus undulatus sonora" ; Times: 1
+	Query: "Crotalus lepidus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Plestiodon obsoletus Sonora" ; Times: 1
+	Query: "Gambelia wislizenii Sonora" ; Times: 2
+	Query: "Thamnophis cyrtopsis Sonora" ; Times: 2
+	Query: "Reptilia Arizona barfoot" ; Times: 2
+	Query: "Phrynosoma mcallii sonora" ; Times: 3
+	Query: "Crotalus basiliscus Sonora" ; Times: 1
+	Query: "Crotaphytus dickersonae Sonora" ; Times: 1
+	Query: "Uta palmeri sonora" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "Aspidoscelis burti sonora" ; Times: 4
+	Query: "Salamander county:&#34;santa clara&#34;" ; Times: 1
+	Query: "Terrapene nelsoni Sonora" ; Times: 1
+	Query: "Heterodon Sonora" ; Times: 1
+	Query: "catalognumber:41312 institutioncode:UAZ" ; Times: 1
+	Query: "Leptodactylus melanonotus sonora" ; Times: 1
+	Query: "catalognumber:38232 institutioncode:UAZ" ; Times: 1
+	Query: "Apalone spinifera Sonora" ; Times: 1
+	Query: "Elgaria kingii Sonora" ; Times: 1
+	Query: "Senticolis triaspis sonora" ; Times: 1
+	Query: "Bill frog" ; Times: 1
+	Query: "mediterranean house gecko" ; Times: 1
+	Query: "Crotalus scutulatus Sonora" ; Times: 1
+	Query: "Rana chiricahuensis sonora" ; Times: 1
+	Query: "Phrynosoma douglasii stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Storeria storerioides Sonora" ; Times: 1
+	Query: "genus:Tantilla year &gt;= 2000 institutioncode:UAZ" ; Times: 1
+	Query: "python institutioncode:UAZ" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 3
+	Query: "50129" ; Times: 1
+	Query: "Crotalus viridis Colorado Grand" ; Times: 1
+	Query: "Kinosternon sonoriense sonora" ; Times: 1
+	Query: "thamnophis catalina" ; Times: 1
+	Query: "hemidactylus turcicus arizona" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Urosaurus bicarinatus sonora" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 2
+	Query: "Sceloporus nelsoni sonora" ; Times: 2
+	Query: "ophryacus undulatus" ; Times: 1
+	Query: "Crotalus zacatecas" ; Times: 2
+	Query: "Gyalopion quadrangulare Sonora" ; Times: 1
+	Query: "Lichanura trivirgata Sonora" ; Times: 1
+	Query: "Sceloporus magister sonora" ; Times: 2
+	Query: "RHADINAEA HESPERIA" ; Times: 1
+	Query: "specificepithet:stormi genus:plethodon" ; Times: 1
+	Query: "micruroides euryxanthus az" ; Times: 1
+	Query: "Nasicus new mexico guadalupe" ; Times: 2
+	Query: "Kinosternon integrum sonora" ; Times: 2
+	Query: "Lepidochelys olivacea Sonora" ; Times: 1
+	Query: "Oxybelis UAZ 39544" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Phrynosoma modestum sonora" ; Times: 2
+	Query: "specificepithet:inornatus genus:Aspidoscelis locality:Grand Canyon stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:phyllorhynchus (male OR female) hassex:1" ; Times: 1
+	Query: "novoeumeces schneideri" ; Times: 1
+	Query: "specificepithet:egregius family:Scincidae county:&#34;Lafayette&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "micruroides euryxanthus pima az" ; Times: 1
+	Query: "Lepidophyma sylvaticum" ; Times: 1
+	Query: "Lichanura trivirgata trivirgata" ; Times: 3
+	Query: "sand viper" ; Times: 5
+	Query: "Crotaphytus collaris Sonora" ; Times: 1
+	Query: "Crotalus viridis Sonora" ; Times: 1
+	Query: "Chionactis palarostris Sonora" ; Times: 1
+	Query: "indigo snake" ; Times: 2
+	Query: "Crotalus lepidus Sonora" ; Times: 1
+	Query: "Incilius mazatlanensis sonora" ; Times: 3
+	Query: "Leptodeira splendida Sonora" ; Times: 1
+	Query: "arizona night lizard" ; Times: 1
+	Query: "Tantilla yaquia Sonora" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima Sonora" ; Times: 1
+	Query: "Anaxyrus punctatus sonora" ; Times: 3
+	Query: "Incilius alvarius sonora" ; Times: 2
+	Query: "laticauda vntype:specimen institutioncode:UAZ" ; Times: 1
+	Query: "Plestiodon parviauriculatus Sonora" ; Times: 1
+	Query: "Uta nolascensis sonora" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "Craugastor augusti sonora" ; Times: 1
+	Query: "genus:Craugastor specificepithet:augusti" ; Times: 3
+	Query: "Hypsiglena Sonora" ; Times: 1
+	Query: "Masticophis mentovarius Sonora" ; Times: 1
+	Query: "Phyllodactylus homolepidurus sonora" ; Times: 1
+	Query: "Sceloporus virgatus sonora" ; Times: 1
+	Query: "catalognumber:54754 institutioncode:UAZ" ; Times: 1
+	Query: "Terrapene ornata Sonora" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Mexico&#34; year &gt;= 1985" ; Times: 1
+	Query: "Anolis nebulosus Sonora" ; Times: 1
+	Query: "Xantusia bezyi" ; Times: 2
+	Query: "dryadophis cliftoni Sonora" ; Times: 1
+	Query: "catalognumber:54759 institutioncode:UAZ" ; Times: 1
+	Query: "Coleonyx fasciatus Sonora" ; Times: 1
+	Query: "Craugastor tarahumaraensis sonora" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 12
+	Query: "stateprovince:&#34;Arizona&#34; Aspidoscelis burti" ; Times: 4
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "genus:leptotyphlops (male OR female) hassex:1" ; Times: 1
+	Query: "Sympholis lippiens Sonora" ; Times: 1
+	Query: "Crotalus atrox Sonora" ; Times: 3
+	Query: "Phyllorhynchus decurtatus Sonora" ; Times: 1
+	Query: "Xantusia vigilis Sonora" ; Times: 1
+	Query: "Oxybelis UAZ 16796" ; Times: 1
+	Query: "cerastes vipera" ; Times: 1
+	Query: "Chionactis occipitalis Sonora" ; Times: 2
+	Query: "genus:gyalopion hassex:1" ; Times: 1
+	Query: "Pseudoficimia frontalis Sonora" ; Times: 1
+	Query: "Arizona wet canyon" ; Times: 1
+	Query: "leatherback turtle" ; Times: 1
+	Query: "Desert whipsnake" ; Times: 3
+	Query: "Crotalus willardi stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:stormi genus:plethodon month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:diplotropis genus:Leptophis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Cophosaurus texanus sonora" ; Times: 2
+	Query: "foothill yellow legged frog rana boylii" ; Times: 1
+	Query: "Lampropeltis Prince George" ; Times: 1
+	Query: "specificepithet:lacerata genus:Holbrookia stateprovince:&#34;Coahuila&#34;" ; Times: 2
+	Query: "catalognumber:04688 institutioncode:UAZ" ; Times: 1
+	Query: "Crotalus molossus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "bothriechis (mx)" ; Times: 1
+	Query: "Drymobius margaritiferus Sonora" ; Times: 1
+	Query: "Masticophis flagellum Sonora" ; Times: 2
+	Query: "Sceloporus clarkii sonora" ; Times: 1
+	Query: "Baja california collared lizard" ; Times: 1
+	Query: "Incilius occidentalis sonora" ; Times: 1
+	Query: "Rana forreri sonora" ; Times: 1
+	Query: "catalognumber:01713 institutioncode:UAZ" ; Times: 1
+	Query: "Aspidoscelis uniparens Sonora" ; Times: 1
+	Query: "american crocodile" ; Times: 3
+	Query: "Clark county Nevada Crotalus" ; Times: 1
+	Query: "Oxybelis UAZ 39545" ; Times: 1
+	Query: "Sonora aemula sonora" ; Times: 1
+	Query: "Sceloporus grammicus sonora" ; Times: 1
+	Query: "Tantilla wilcoxi Sonora" ; Times: 1
+	Query: "spea intermontana UAZ" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "order:squamata locality:Turtle county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Phyllodactylus xanti sonora" ; Times: 1
+	Query: "plestiodon callicephalus" ; Times: 6
+	Query: "gbifdatasetid:96c25708-f762-11e1-a439-00145eb45e9a" ; Times: 3
+	Query: "rana lithobates tarahumarae" ; Times: 2
+	Query: "Eleutherodactylus interorbitalis sonora" ; Times: 1
+	Query: "nightsnake" ; Times: 1
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34; hassex:1" ; Times: 1
+	Query: "Chilomeniscus stramineus" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 14
+	Query: "catenatus stateprovince:&#34;Pennsylvania&#34;" ; Times: 15
+	Query: "Plestiodon callicephalus Sonora" ; Times: 1
+	Query: "horned lizard institutioncode:UAZ" ; Times: 1
+	Query: "Reptilia New Mexico guadalupe vaughn" ; Times: 2
+	Query: "Reptilia Arizona wet canyon" ; Times: 3
+	Query: "hydrophiidae vntype:specimen institutioncode:UAZ" ; Times: 1
+	Query: "Oxybelis UAZ 16787" ; Times: 1
+	Query: "Thamnophis eques Sonora" ; Times: 1
+	Query: "Tailed frog" ; Times: 1
+	Query: "Rana yavapaiensis sonora" ; Times: 2
+	Query: "Masticophis bilineatus Sonora" ; Times: 2
+	Query: "rubber boa" ; Times: 1
+	Query: "Hyla arenicolor sonora" ; Times: 1
+	Query: "Oxybelis aeneus Sonora" ; Times: 1
+	Query: "Crotalus mitchellii Sonora" ; Times: 1
+	Query: "Rana tarahumarae sonora" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34; institutioncode:UAZ" ; Times: 1
+	Query: "Lichanura trivirgata trivirgata arizona" ; Times: 2
+	Query: "Rosy boa Yuma county" ; Times: 1
+	Query: "crotaphytus nebrius" ; Times: 6
+	Query: "genus:Tantilla institutioncode:UAZ" ; Times: 1
+	Query: "Trimorphodon tau Sonora" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops stateprovince:&#34;Baja California Sur&#34;" ; Times: 2
+	Query: "catalognumber:38370 institutioncode:UAZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1892 download events in this period)
+Total number of records downloaded: 4168
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Brazil ; Times: 2
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 6
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-06 ; Times: 3
+	Date: 2018-02-09 ; Times: 6
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-03 ; Times: 8
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "Serpentes vntype:specimen stateprovince:&#34;zacatecas&#34; country:&#34;mexico&#34; continent:america" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (Sceloporus Scalaris )" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Eurycea bislineata stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Uma scoparia" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "order:squamata locality:Turtle county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "specificepithet:marnockii stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "ophryacus undulatus" ; Times: 1
+	Query: "Thamnophis pulchrilatus" ; Times: 1
+	Query: "catenatus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:retiformis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Phrynosoma family:Phrynosomatidae country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "sceloporus scalaris vntype:specimen stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Phrynosoma douglasii stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "family:Hylidae haslength:1 mappable:1" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops stateprovince:&#34;Baja California Sur&#34;" ; Times: 2
+	Query: "sceloporus scalaris" ; Times: 1
+
+
+End of report.
