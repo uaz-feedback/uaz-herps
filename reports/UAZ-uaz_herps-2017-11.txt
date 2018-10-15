@@ -1,0 +1,103 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 393
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 4
+	Date: 2017-11-29 ; Times: 28
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 4
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-25 ; Times: 2
+	Date: 2017-11-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "47996" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis (Arivaca) institutioncode:UAZ" ; Times: 1
+	Query: "UAZ 41661" ; Times: 1
+	Query: "genus:Crotalus recordnumber:580" ; Times: 2
+	Query: "California giant salamander" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae institutioncode:UAZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "getula stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "vntype:specimen genus:Lampropeltis year &gt;= 1970 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 2
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus (pennsylvania) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampropeltis getula jersey" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis (Amado) institutioncode:UAZ" ; Times: 1
+	Query: "genus:Crotalus catalognumber:28571" ; Times: 2
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33818" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33873" ; Times: 2
+	Query: "bezyi" ; Times: 1
+	Query: "specificepithet:Attenuatus genus:Batrachoseps county:&#34;el Dorado&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Crotalus recordnumber:5" ; Times: 1
+	Query: "04161" ; Times: 1
+	Query: "genus:Crotalus catalognumber:39588" ; Times: 3
+	Query: "jaguar" ; Times: 1
+	Query: "Uzbekistan Amphibia" ; Times: 1
+	Query: "genus:Crotalus recordnumber:278" ; Times: 2
+	Query: "elgaria paucicarinata" ; Times: 1
+	Query: "pituophis stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "genus:Crotalus recordnumber:72" ; Times: 1
+	Query: "masticophis taeniatus mexico" ; Times: 1
+	Query: "genus:Crotalus catalognumber:34671" ; Times: 2
+	Query: "genus:Crotalus catalognumber:33819" ; Times: 2
+	Query: "genus:Crotalus catalognumber:27369" ; Times: 2
+	Query: "masticophis taeniatus durango" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1101 download events in this period)
+Total number of records downloaded: 3613
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Russia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 4
+	Date: 2017-11-29 ; Times: 1
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 3
+	Date: 2017-11-25 ; Times: 5
+	Date: 2017-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Lithobates forreri" ; Times: 1
+	Query: "Uzbekistan Amphibia" ; Times: 1
+	Query: "elgaria paucicarinata" ; Times: 3
+	Query: "class:reptilia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:amphibia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
