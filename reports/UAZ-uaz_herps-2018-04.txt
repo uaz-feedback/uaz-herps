@@ -1,0 +1,484 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 366
+Number of records retrieved in searches: 4318
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 331
+	Country: Israel ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: Czechia ; Times: 2
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-28 ; Times: 4
+	Date: 2018-04-23 ; Times: 11
+	Date: 2018-04-22 ; Times: 19
+	Date: 2018-04-21 ; Times: 28
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 6
+	Date: 2018-04-25 ; Times: 39
+	Date: 2018-04-24 ; Times: 47
+	Date: 2018-04-01 ; Times: 12
+	Date: 2018-04-03 ; Times: 4
+	Date: 2018-04-02 ; Times: 6
+	Date: 2018-04-05 ; Times: 9
+	Date: 2018-04-04 ; Times: 9
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 5
+	Date: 2018-04-09 ; Times: 14
+	Date: 2018-04-08 ; Times: 6
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-12 ; Times: 52
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 12
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 50
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 7
+	Date: 2018-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "26781" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 2
+	Query: "kinosternon arizonense stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:dulcis stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "Plestiodon brevirostris" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "american bullfrog hasmass:1 haslength:1" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 2
+	Query: "anaxyrus microscaphus stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "bogertophis subocularis" ; Times: 2
+	Query: "holbrookia skeleton" ; Times: 1
+	Query: "senticolis triaspis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:14706 institutioncode:UAZ" ; Times: 3
+	Query: "specificepithet:annellatus genus:micrurus" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Trimorphodon tau mappable:1" ; Times: 1
+	Query: "hemidactylus flaviviridis" ; Times: 2
+	Query: "genus:drymobius sex:male OR female" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "genus:Petrosaurus sex:male OR female" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 2
+	Query: "micrurus distans" ; Times: 4
+	Query: "family:Emydidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "crotalus horridus maryland" ; Times: 1
+	Query: "genus:Oxybelis sex:male OR female" ; Times: 1
+	Query: "catalognumber:28393 institutioncode:UAZ" ; Times: 1
+	Query: "genus:Atropoides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotalus willardi willardi stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Charina county:&#34;Mendocino&#34;" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "thamnophis rufipunctatus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:pricei genus:Crotalus stateprovince:&#34;nuevo leon&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "anaxyrus retiformis stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "chilomeniscus stramineus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "family:Viperidae stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "29688" ; Times: 1
+	Query: "american bullfrog hasmass:1" ; Times: 1
+	Query: "spea intermontana uaz" ; Times: 2
+	Query: "Rosy boa Arizona" ; Times: 1
+	Query: "greenhouse frog" ; Times: 1
+	Query: "genus:Mixcoatlus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "Kinosternon arizonense" ; Times: 1
+	Query: "thamnophis eques stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Sceloporus recordedby:Smith year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+	Query: "Yuma county Crotalus" ; Times: 1
+	Query: "lampropeltis triangulum arizona" ; Times: 5
+	Query: "catalognumber:27889 institutioncode:UAZ" ; Times: 1
+	Query: "catalognumber:46405 institutioncode:UAZ" ; Times: 1
+	Query: "2770 crotalus" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "terrapene ornata stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "catalognumber:40162 institutioncode:UAZ" ; Times: 1
+	Query: "melanosuchus niger" ; Times: 35
+	Query: "catalognumber:35993 institutioncode:UAZ" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "locality:bartolo stateprovince:&#34;chiapas&#34;" ; Times: 4
+	Query: "family:Kinosternidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:crotalus county:&#34;pecos&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Holbrookia county:&#34;Stanton&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; mappable:1" ; Times: 5
+	Query: "genus:Agkistrodon country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Eleutherodactylus interorbitalis" ; Times: 1
+	Query: "yuma county Crotalus mitchellii" ; Times: 1
+	Query: "lichanura trivirgata stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:stramineus genus:Chilomeniscus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus willardi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "plestiodon callicephalus stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "plestiodon callicephalus stateprovince:&#34;Arizona&#34; mappable:1" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "genus:Phyllorhynchus sex:male OR female" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(18.419684546193967,-97.76458740234375))&lt;39300" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 2
+	Query: "genus:micruroides country:&#34;mexico&#34;" ; Times: 1
+	Query: "san joaquin crotalus" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "craugastor augusti stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:agkistrodon county:&#34;gonzales&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:27914 institutioncode:UAZ" ; Times: 1
+	Query: "crotaphytus nebrius stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "elgaria paucicarinata" ; Times: 1
+	Query: "genus:Trimorphodon sex:male OR female" ; Times: 1
+	Query: "family:Kinosternidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "oxybelis arizona" ; Times: 7
+	Query: "genus:Sistrurus county:&#34;Tarrant&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "bullfrog hasmass:1" ; Times: 1
+	Query: "genus:Oxybelis stateprovince:&#34;Puebla&#34;" ; Times: 4
+	Query: "oxybelis aeneus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "lowland leopard frog" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "crotalus pricei stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "family:Emydidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Gila monster" ; Times: 1
+	Query: "genus:senticolis sex:male OR female" ; Times: 1
+	Query: "family:Kinosternidae stateprovince:&#34;Arizona&#34; (canyon )" ; Times: 2
+	Query: "family:Leptotyphlopidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Triangulum arizona" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "specificepithet:pusillus genus:crotalus" ; Times: 1
+	Query: "phyllorhynchus browni stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:gyalopion sex:male OR female" ; Times: 1
+	Query: "catalognumber:46406 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:gilberti genus:Plestiodon county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Utah turtle" ; Times: 3
+	Query: "foothill yellow legged frog" ; Times: 1
+	Query: "micruroides euryxanthus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:gerrhonotus sex:male OR female" ; Times: 1
+	Query: "lampropeltis triangulum coconino county arizona" ; Times: 1
+	Query: "genus:Cerrophidion country:&#34;Mexico&#34;" ; Times: 1
+	Query: "gila elegans stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "family:Boidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "crotalus tigris stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "xantusia arizonae stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "leg order:Anura country:&#34;United States&#34; year &gt;= 2000" ; Times: 1
+	Query: "tantilla yaquia stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet: distans genus:micrurus" ; Times: 1
+	Query: "Tantilla calamarina" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis stateprovince:&#34;baja california&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "fossil creek arizona" ; Times: 1
+	Query: "genus:Thamnophis (cyrtopsis) hasmass:1" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Sonora&#34;" ; Times: 2
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "lampropeltis pyromelana arizona" ; Times: 1
+	Query: "indigo snake" ; Times: 3
+	Query: "family:Scincidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "incilius alvarius stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Rhadinaea cuneata" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 2
+	Query: "genus:Chilomeniscus sex:male OR female" ; Times: 1
+	Query: "Pseudoeurycea belli" ; Times: 1
+	Query: "lithobates pipiens stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "antelope pass New Mexico" ; Times: 1
+	Query: "catalognumber:33638 institutioncode:UAZ" ; Times: 1
+	Query: "plestiodon callicephalus stateprovince:Arizona" ; Times: 1
+	Query: "catalognumber:33637 institutioncode:UAZ" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "phrynosoma solare stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "smilisca fodiens stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "tantilla wilcoxi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Utah mountain kingsnake" ; Times: 1
+	Query: "class:Reptilia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 2
+	Query: "marsh turtle" ; Times: 2
+	Query: "genus:heloderma sex:male OR female" ; Times: 2
+	Query: "46441" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "gopherus agassizii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "specificepithet:distans genus:micrurus" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 2
+	Query: "heloderma suspectum suspectum stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "groveland class:Amphibia county:&#34;Tuolumne&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lithobates chiricahuensis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:27845 institutioncode:UAZ" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 16
+	Query: "class:Reptilia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; institutioncode:UAZ" ; Times: 1
+	Query: "family:Helodermatidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Trimorphodon biscutatus New Mexico" ; Times: 2
+	Query: "31224" ; Times: 1
+	Query: "barisia levicollis" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 2
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Rosy boa la Paz" ; Times: 1
+	Query: "lithobates yavapaiensis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "lampropeltis triangulum stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:coleonyx county:&#34;San Diego&#34; month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "family:Elapidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Gerrhonotus sex:male OR female" ; Times: 1
+	Query: "genus:Coniophanes stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "plestiodon callicephalus" ; Times: 2
+	Query: "specificepithet:laevis genus:xenopus hasmass:1" ; Times: 1
+	Query: "genus:bothriechis country:&#34;mexico&#34;" ; Times: 1
+	Query: "kinosternon sonoriense stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34; AND (NOT MCZ NOT USNM NOT KU NOT AMNH)" ; Times: 1
+	Query: "genus:Leptotyphlops sex:male OR female" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "american bullfrog haslength:1" ; Times: 1
+	Query: "kinosternon sonoriense sonoriense stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "heloderma suspectum stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "phrynosoma vntype:specimen (santa cruz)" ; Times: 1
+	Query: "chionactis occipitalis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "genus:Micruroides sex:male OR female" ; Times: 1
+	Query: "xantusia bezyi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34; institutioncode:UAZ" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+	Query: "gyalopion quadrangulare stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Crotalus pricei Arizona" ; Times: 1
+	Query: "gastrophryne olivacea stateprovince:Arizona mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 189 (out of 1359 download events in this period)
+Total number of records downloaded: 14537
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 170
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-23 ; Times: 30
+	Date: 2018-04-22 ; Times: 13
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 13
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 5
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-24 ; Times: 2
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 4
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 5
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-12 ; Times: 63
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-10 ; Times: 9
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 8
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Reptilia Zacatecas" ; Times: 2
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Crotaphytus sex:Male OR Female" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 2
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:charina sex:male OR female" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "timber rattlesnake" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 2
+	Query: "specificepithet:mairii genus:Tropidonophis" ; Times: 1
+	Query: "genus:Sauromalus sex:Male OR Female" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "Trimorphodon tau mappable:1" ; Times: 1
+	Query: "Pseudacris streckeri" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "genus:Salvadora sex:male OR female" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "Anaxyrus debilis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "genus:Trimorphodon sex:male OR female" ; Times: 1
+	Query: "incilius valliceps" ; Times: 2
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:tantilla sex:male OR female" ; Times: 2
+	Query: "genus:storeria sex:male OR female" ; Times: 1
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "Sceloporus licki" ; Times: 1
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "genus:Coleonyx sex:male OR female" ; Times: 2
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "Lithobates berlandieri vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:holbrookia sex:male OR female" ; Times: 1
+	Query: "genus:Trachemys sex:male OR female" ; Times: 1
+	Query: "genus:Graptemys sex:male OR female" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Thorius" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:Hypsiglena sex:male OR female" ; Times: 1
+	Query: "genus:Gambelia sex:male OR female" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "genus:Phyllorhynchus sex:male OR female" ; Times: 2
+	Query: "genus:sistrurus sex:male OR female" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "genus:Kinosternon sex:male OR female" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Tantilla calamarina" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:plestiodon sex:male OR female" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "family:Kinosternidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "genus:diadophis sex:male OR female" ; Times: 1
+	Query: "genus:Heterodon sex:Male OR Female" ; Times: 1
+	Query: "genus:Elgaria sex:male OR female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "family:Kinosternidae stateprovince:&#34;Arizona&#34; (canyon )" ; Times: 2
+	Query: "family:Leptotyphlopidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "class:Reptilia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "genus:Phyllodactylus sex:male OR female" ; Times: 1
+	Query: "genus:lampropeltis sex:male OR female" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "family:Xantusiidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:xantusia sex:male OR female" ; Times: 1
+	Query: "genus:Micrurus sex:male OR female" ; Times: 1
+	Query: "genus:Thamnophis sex:male OR female" ; Times: 2
+	Query: "petrosaurus thalassinus" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Stegonotus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "genus:Lampropeltis sex:male OR female" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "bothrops asper" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Thamnophis (cyrtopsis) hasmass:1" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Aspidoscelis sex:male OR female" ; Times: 3
+	Query: "family:Scincidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "genus:gopherus sex:male OR female" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "genus:heloderma sex:male OR female" ; Times: 1
+	Query: "genus:terrapene sex:male OR female" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 1
+	Query: "family:Colubridae (stomach)" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Dipsosaurus sex:male OR female" ; Times: 2
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "genus:Chionactis sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (canyon)" ; Times: 2
+	Query: "family:Helodermatidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "Lampropeltis New Mexico" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (canyon bottom)" ; Times: 1
+	Query: "family:Elapidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "Eleutherodactylus marnockii" ; Times: 1
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "genus:agkistrodon sex:male OR female" ; Times: 2
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "genus:Urosaurus sex:male OR female" ; Times: 1
+
+
+End of report.
