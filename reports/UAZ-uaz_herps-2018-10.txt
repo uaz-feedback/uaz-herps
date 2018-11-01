@@ -1,0 +1,296 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 177
+Number of records retrieved in searches: 2720
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 46
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 91
+	Country: Sweden ; Times: 23
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 7
+	Date: 2018-10-04 ; Times: 9
+	Date: 2018-10-05 ; Times: 4
+	Date: 2018-10-06 ; Times: 4
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-01 ; Times: 12
+	Date: 2018-10-02 ; Times: 3
+	Date: 2018-10-03 ; Times: 8
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-22 ; Times: 7
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-20 ; Times: 3
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-26 ; Times: 11
+	Date: 2018-10-27 ; Times: 5
+	Date: 2018-10-24 ; Times: 7
+	Date: 2018-10-25 ; Times: 7
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 5
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 8
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-18 ; Times: 6
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 18
+	Date: 2018-10-10 ; Times: 14
+	Date: 2018-10-17 ; Times: 12
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 6
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maximus genus:aspidoscelis" ; Times: 1
+	Query: "red-bellied newt" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Gonzales&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brown&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 1
+	Query: "Ficimia publia" ; Times: 2
+	Query: "Cozumel genus:Aristelliger order:Squamata country:&#34;Mexico&#34; AND (NOT Anolis)" ; Times: 1
+	Query: "Cozumel order:Squamata country:&#34;Mexico&#34; AND (NOT Anolis)" ; Times: 2
+	Query: "Nightsnake" ; Times: 4
+	Query: "Cnemidophorus ocellifer" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Tarrant&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:25105 institutioncode:UAZ" ; Times: 2
+	Query: "western spadefoot" ; Times: 1
+	Query: "leopard cat" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Carroll&#34; stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Naja Vietnam" ; Times: 1
+	Query: "Mixcoatlus melanurus" ; Times: 3
+	Query: "53793" ; Times: 1
+	Query: "specificepithet:mexicanus genus:aspidoscelis" ; Times: 2
+	Query: "Tokay gecko" ; Times: 1
+	Query: "Hemisphaeriodon gerrardii" ; Times: 5
+	Query: "genus:Aristelliger country:&#34;Mexico&#34;" ; Times: 3
+	Query: "long-tailed salamander" ; Times: 2
+	Query: "Stilosoma Florida" ; Times: 1
+	Query: "plestiodon brevirostris" ; Times: 1
+	Query: "specificepithet:chiricahuensis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "melanosuchus niger" ; Times: 2
+	Query: "palenque chiapas reptilia" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Edwards&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "uaz crowder" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "leptodeira frenata" ; Times: 1
+	Query: "Salvadora bairdi" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;hidalgo&#34;" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:guttatus genus:aspidoscelis" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "basaseachi" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rubber Boa" ; Times: 1
+	Query: "class:reptilia catalognumber:26460 institutioncode:UAZ" ; Times: 1
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "plestiodon lagunensis" ; Times: 1
+	Query: "alaska specificepithet:sylvatica" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "coniophanes fissidens Oaxaca" ; Times: 1
+	Query: "Obsoletus Sonora Mexico" ; Times: 1
+	Query: "CJ 1425" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:opatae genus:aspidoscelis" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gecko in india" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 3
+	Query: "specificepithet:calidipes genus:aspidoscelis" ; Times: 1
+	Query: "specificepithet:cozumelae genus:aspidoscelis" ; Times: 3
+	Query: "lepidophyma smithi" ; Times: 2
+	Query: "coniophanes piceivittis" ; Times: 1
+	Query: "Dipsosaurus arizona" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;jalisco&#34;" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "ficimia publia" ; Times: 3
+	Query: "genus:Pituophis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Aspidoscelis tesselatus" ; Times: 4
+	Query: "veracruz genus:coleonyx" ; Times: 2
+	Query: "CRAUGASTOR ALFREDI" ; Times: 2
+	Query: "coralillo" ; Times: 1
+	Query: "Dipsosaurus Arizona" ; Times: 1
+	Query: "genus:Thecadactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Sonora stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:reptilia locality:santa rita county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 8
+	Query: "crotalus nuntius" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Coleonyx county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "specificepithet:Egregius genus:Plestiodon stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "specificepithet:godmani family:viperidae" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "Coniophanes piceivittis" ; Times: 2
+	Query: "specificepithet:parvisocius genus:aspidoscelis" ; Times: 1
+	Query: "Cozumel order:Squamata country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Phrynosoma county:&#34;Webb&#34;" ; Times: 1
+	Query: "specificepithet:wilcoxi genus:Tantilla stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:26454 institutioncode:UAZ" ; Times: 2
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jasper&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "craugastor alfredi" ; Times: 2
+	Query: "specificepithet:deppei genus:Pituophis stateprovince:&#34;Nuevo León&#34;" ; Times: 1
+	Query: "naja vietnam" ; Times: 1
+	Query: "specificepithet:alfredi genus:craugastor country:&#34;mexico&#34;" ; Times: 1
+	Query: "UAZ crowder" ; Times: 1
+	Query: "genus:Gopherus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crocodylus acutus cuvier" ; Times: 1
+	Query: "catalognumber:40508 institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "genus:Coleonyx county:&#34;Yuma&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Connecticut&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Puebla&#34;" ; Times: 3
+	Query: "family:Chelydridae stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Basiliscus vittatus palenque" ; Times: 2
+	Query: "genus:Craugastor specificepithet:alfredi" ; Times: 2
+	Query: "genus:crotalus county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1300 download events in this period)
+Total number of records downloaded: 3508
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: India ; Times: 3
+	Country: France ; Times: 9
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 4
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-03 ; Times: 15
+	Date: 2018-10-22 ; Times: 11
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 7
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-24 ; Times: 7
+	Date: 2018-10-25 ; Times: 7
+	Date: 2018-10-29 ; Times: 5
+	Date: 2018-10-08 ; Times: 6
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cnemidophorus ocellifer" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 2
+	Query: "sceloporus gadoviae" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "plestiodon brevirostris" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;hidalgo&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Kentropyx calcarata" ; Times: 1
+	Query: "specificepithet:chiricahuensis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Plica plica" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "uaz crowder" ; Times: 4
+	Query: "crotalus horridus" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Tropidurus torquatus" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "ninia sebae" ; Times: 1
+	Query: "Micrurus Mexico" ; Times: 1
+	Query: "incilius bocourti" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;jalisco&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ninia diademata" ; Times: 1
+	Query: "Aspidoscelis gularis" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 2
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Mixcoatlus melanurus" ; Times: 1
+	Query: "palenque chiapas reptilia" ; Times: 1
+	Query: "dipsosaurus arizona" ; Times: 1
+	Query: "Tropidurus hispidus" ; Times: 1
+	Query: "Coniophanes fissidens" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "Plectrohyla matudai" ; Times: 2
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "sceloporus scalaris scalaris" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "sceloporus horridus" ; Times: 1
+	Query: "Anolis punctatus" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis country:&#34;United States&#34;" ; Times: 1
+	Query: "UAZ crowder" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 2
+	Query: "Coniophanes piceivittis" ; Times: 1
+	Query: "alaska specificepithet:sylvatica" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "rana muscosa" ; Times: 1
+	Query: "coniophanes fissidens Oaxaca" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
