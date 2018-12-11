@@ -1,0 +1,289 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 187
+Number of records retrieved in searches: 2947
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 53
+	Country: United States ; Times: 89
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 9
+	Date: 2018-11-08 ; Times: 10
+	Date: 2018-11-07 ; Times: 12
+	Date: 2018-11-06 ; Times: 5
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-04 ; Times: 3
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 12
+	Date: 2018-11-25 ; Times: 4
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 11
+	Date: 2018-11-21 ; Times: 6
+	Date: 2018-11-20 ; Times: 2
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-22 ; Times: 10
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 5
+	Date: 2018-11-18 ; Times: 13
+	Date: 2018-11-19 ; Times: 3
+	Date: 2018-11-10 ; Times: 7
+	Date: 2018-11-11 ; Times: 12
+	Date: 2018-11-12 ; Times: 15
+	Date: 2018-11-13 ; Times: 5
+	Date: 2018-11-14 ; Times: 16
+	Date: 2018-11-15 ; Times: 7
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus tigris arizona" ; Times: 2
+	Query: "catalognumber:40365" ; Times: 1
+	Query: "catalognumber:23628" ; Times: 1
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:rivularis stateprovince:California" ; Times: 1
+	Query: "specificepithet:proximus genus:thamnophis stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "Eleutherodactylus guttilatus" ; Times: 3
+	Query: "specificepithet:euryxanthus genus:Micruroides" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Trimorphodon tau" ; Times: 1
+	Query: "recordedby:Salmon" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "45122" ; Times: 2
+	Query: "Hemisphaeriodon" ; Times: 1
+	Query: "genus:coleonyx country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "specificepithet:mydas genus:chelonia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; recordedby:LaDuc" ; Times: 1
+	Query: "Xantusia bezyi" ; Times: 2
+	Query: "Lithobates yavapaiensis arizona" ; Times: 2
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "specificepithet:browni genus:micrurus" ; Times: 1
+	Query: "28904" ; Times: 1
+	Query: "Rhinoclemmys rubida rubida" ; Times: 1
+	Query: "specificepithet:viridis stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 2
+	Query: "Sibon fasciata" ; Times: 2
+	Query: "Thamnophis pulchrilatus" ; Times: 3
+	Query: "Coniophanes piceivittis MEXICO" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus locality:carr canyon reservoir county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;coconino&#34;" ; Times: 1
+	Query: "Lithobates yavapaiensis arizona santa cruz" ; Times: 2
+	Query: "specificepithet:granulosa stateprovince:California" ; Times: 1
+	Query: "rosy boa" ; Times: 2
+	Query: "genus:Agkistrodon piscivorus Arkansas" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "craugastor augusti" ; Times: 1
+	Query: "genus:contia year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:viridis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "crotalus willardi sonora" ; Times: 1
+	Query: "crotalus Willardi AZ" ; Times: 1
+	Query: "catalognumber:11154 institutioncode:UAZ" ; Times: 1
+	Query: "Hopkins county:&#34;Santa Cruz&#34;" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "specificepithet:elegans county:&#34;contra costa&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:nebrius genus:Crotaphytus" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 4
+	Query: "phrynosoma ditmarsi" ; Times: 4
+	Query: "catalognumber:33519" ; Times: 2
+	Query: "recordnumber:TJL" ; Times: 1
+	Query: "specificepithet:elegans genus:coleonyx country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "crotalus pricei sonora" ; Times: 1
+	Query: "catalognumber:12480" ; Times: 2
+	Query: "genus:sauromalus locality:pisgah" ; Times: 1
+	Query: "Hopkins class:Reptilia county:&#34;Santa Cruz&#34;" ; Times: 1
+	Query: "1. Agkistrodon bilineatus" ; Times: 1
+	Query: "genus:Uma scoparia specificepithet:scoparia" ; Times: 4
+	Query: "genus:heloderma country:&#34;mexico&#34;" ; Times: 3
+	Query: "35923" ; Times: 1
+	Query: "catalognumber:40082" ; Times: 1
+	Query: "specificepithet:tigris county:&#34;Santa Cruz&#34;" ; Times: 1
+	Query: "sonoran coral snake" ; Times: 1
+	Query: "order:caudata class:amphibia county:&#34;yavapai&#34;" ; Times: 1
+	Query: "Rosy Boa" ; Times: 2
+	Query: "specificepithet:tigris genus:aspidoscelis county:&#34;hidalgo&#34; year &gt;= 1983 year &lt;= 1993" ; Times: 1
+	Query: "anolis barkeri" ; Times: 1
+	Query: "genus:Crocodylus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "27647" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "specificepithet:mentovarius genus:Masticophis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sceloporus maculosus" ; Times: 2
+	Query: "genus:Elgaria stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "specificepithet:spinosus genus:Sceloporus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:vittatus genus:Basiliscus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:51156 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 3
+	Query: "specificepithet:gilberti genus:Plestiodon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:36367 institutioncode:UAZ" ; Times: 3
+	Query: "genus:Agkistrodon county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "genus:Bufo recordedby:Shannon" ; Times: 1
+	Query: "Amastridium veliferum" ; Times: 2
+	Query: "45657" ; Times: 1
+	Query: "genus:Crotalus county:&#34;San Joaquin&#34;" ; Times: 1
+	Query: "1132 genus:aspidoscelis" ; Times: 1
+	Query: "order:caudata county:&#34;yavapai&#34;" ; Times: 1
+	Query: "marine iguana" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 2
+	Query: "crotalus lepidus nm" ; Times: 1
+	Query: "crotalus lepidus TX" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "siberian wood frog" ; Times: 2
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 2
+	Query: "order:Squamata locality:Santa Rita county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Patagonia genus:Crotalus" ; Times: 1
+	Query: "Sibon sartorii" ; Times: 2
+	Query: "Plestiodon egregius year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "leslie canyon national wildlife" ; Times: 1
+	Query: "specificepithet:tigris genus:aspidoscelis county:&#34;hidalgo&#34; year &gt;= 1980 year &lt;= 1995" ; Times: 1
+	Query: "44392" ; Times: 1
+	Query: "Lampropeltis alterna Texas" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "Dipsas gaigeae" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Coniophanes piceivittis" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:lepidus genus:crotalus locality:carr canyon county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:contia year &gt;= 1976 year &lt;= 1990" ; Times: 1
+	Query: "rana tarahumare" ; Times: 1
+	Query: "specificepithet:inornatus genus:aspidoscelis" ; Times: 1
+	Query: "specificepithet:caretta genus:caretta country:&#34;mexico&#34; continent:america" ; Times: 1
+	Query: "catalognumber:23638" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "specificepithet:tigris genus:aspidoscelis county:&#34;hidalgo&#34;" ; Times: 2
+	Query: "rubber boa" ; Times: 1
+	Query: "class:Amphibia locality:Santa Rita county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "locality:ventana " ; Times: 1
+	Query: "genus:ambystoma county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "genus:aspidoscelis county:&#34;hidalgo&#34; year &gt;= 1987 year &lt;= 1992" ; Times: 1
+	Query: "Trimorphodon tau tau" ; Times: 1
+	Query: "anolis petersi" ; Times: 1
+	Query: "Sibon fischeri" ; Times: 1
+	Query: "specificepithet:Pricei genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 1719 download events in this period)
+Total number of records downloaded: 15915
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: France ; Times: 1
+	Country: United States ; Times: 38
+	Country: Colombia ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 4
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-06 ; Times: 3
+	Date: 2018-11-05 ; Times: 5
+	Date: 2018-11-04 ; Times: 3
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-27 ; Times: 4
+	Date: 2018-11-26 ; Times: 15
+	Date: 2018-11-21 ; Times: 5
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-19 ; Times: 3
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-12 ; Times: 7
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-14 ; Times: 5
+	Date: 2018-11-15 ; Times: 3
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alterna genus:lampropeltis" ; Times: 1
+	Query: "specificepithet:microscaphus genus:Bufo stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "anolis barkeri" ; Times: 1
+	Query: "genus:Crocodylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:masticophis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "specificepithet:horridus genus:sceloporus country:&#34;mexico&#34;" ; Times: 1
+	Query: "anolis nebulosus" ; Times: 1
+	Query: "specificepithet:rivularis genus:Taricha year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "sceloporus pyrocephalus" ; Times: 1
+	Query: "specificepithet:euryxanthus genus:Micruroides" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "specificepithet:stormi genus:plethodon" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "genus:pachydactylus" ; Times: 1
+	Query: "Amphibia vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "Trimorphodon tau" ; Times: 1
+	Query: "Holbrookia propinqua" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+	Query: "bombina bombina" ; Times: 1
+	Query: "specificepithet:nebrius genus:Crotaphytus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "anolis crassulus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:mydas genus:chelonia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "panama boa constrictor" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon family:Kinosternidae order:Testudines" ; Times: 1
+	Query: "specificepithet:lugubris genus:aneides stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "order:squamata country:&#34;brazil&#34;" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "specificepithet:agassizii genus:gopherus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "anolis petersi" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "specificepithet:pennatulus genus:thorius" ; Times: 2
+	Query: "phyllorhynchus decurtatus" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Chionactis" ; Times: 1
+	Query: "siren texas" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "anolis biporcatus" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "order:Squamata locality:Santa Rita county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "xantusia riversiana" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:stramineus genus:Chilomeniscus" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "specificepithet:caretta genus:caretta country:&#34;mexico&#34; continent:america" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "rana muscosa" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "ninia sebae" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+
+
+End of report.
