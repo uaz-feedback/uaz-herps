@@ -1,0 +1,328 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 225
+Number of records retrieved in searches: 2392
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 5
+	Country: Guatemala ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Switzerland ; Times: 6
+	Country: Sweden ; Times: 24
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 10
+	Country: United States ; Times: 124
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 7
+	Date: 2019-04-19 ; Times: 13
+	Date: 2019-04-18 ; Times: 13
+	Date: 2019-04-23 ; Times: 7
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 10
+	Date: 2019-04-10 ; Times: 8
+	Date: 2019-04-17 ; Times: 6
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 6
+	Date: 2019-04-01 ; Times: 8
+	Date: 2019-04-02 ; Times: 10
+	Date: 2019-04-03 ; Times: 4
+	Date: 2019-04-06 ; Times: 3
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-05 ; Times: 16
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-07 ; Times: 4
+	Date: 2019-04-26 ; Times: 22
+	Date: 2019-04-27 ; Times: 8
+	Date: 2019-04-24 ; Times: 12
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-28 ; Times: 3
+	Date: 2019-04-29 ; Times: 13
+	Date: 2019-04-08 ; Times: 14
+	Date: 2019-04-09 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 2
+	Query: "class:Reptilia locality:Monterrey stateprovince:&#34;Nuevo Leon&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "catalina xantusia" ; Times: 2
+	Query: "47737" ; Times: 1
+	Query: "uma arizona" ; Times: 2
+	Query: "Lithobates yavapaiensis" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "copperhead missouri" ; Times: 1
+	Query: "urosaurus wickenburg" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brown&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "genus:lampropeltis county:&#34;monterey&#34;" ; Times: 4
+	Query: "&#34;heady ashburn&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana pyromelana" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Senticolis triaspis mappable:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:urosaurus stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Aspidoscelis" ; Times: 2
+	Query: "CRF 129 class:reptilia" ; Times: 1
+	Query: "Xantusia bezyi" ; Times: 1
+	Query: "55268" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 2
+	Query: "genus:kinosternon stateprovince:&#34;nayarit&#34;" ; Times: 3
+	Query: "Ditmarsi sonora" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "Aspidoscelis burti arizona" ; Times: 3
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "xantusia uaz estrella" ; Times: 1
+	Query: "Leptophis diplotropis mappable:1" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Aspidoscelis" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Leptodeira stateprovince:&#34;Jalisco&#34;" ; Times: 6
+	Query: "Hualapai sceloporus" ; Times: 1
+	Query: "Susan Sferra" ; Times: 1
+	Query: "rosy boa" ; Times: 1
+	Query: "hognose snake nasicus" ; Times: 1
+	Query: "Crotalus basiliscus mappable:1" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "Rhadinaea hempsteadae" ; Times: 2
+	Query: "tokay gecko" ; Times: 1
+	Query: "Arizona Winslow Navajo Sceloporus" ; Times: 1
+	Query: "Willardi sonora" ; Times: 6
+	Query: "bullfrog specificepithet:catesbeiana country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Tarrant&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Knox&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Edwards&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "mojave county arizona sceloporus" ; Times: 1
+	Query: "genus:Ensatina county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Trimorphodon biscutatus mappable:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:Aspidoscelis" ; Times: 2
+	Query: "Arizona night lizard" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "western blind snake" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "class:reptilia locality:castle dome stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Drymarchon corais mappable:1" ; Times: 1
+	Query: "Rosy boa" ; Times: 2
+	Query: "H. E. Wilder" ; Times: 2
+	Query: "Sceloporus magister Navajo County arizona" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "specificepithet:retiformis genus:Bufo county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Pinus oocarpa mappable:1" ; Times: 2
+	Query: "46954" ; Times: 1
+	Query: "Urosaurus ornatus La Paz county Arizona" ; Times: 1
+	Query: "specificepithet:triangulum stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "cryptobranchus west virginia" ; Times: 1
+	Query: "Phrynosoma solare mappable:1" ; Times: 1
+	Query: "navajo county Phrynosoma" ; Times: 1
+	Query: "genus:diadophis county:&#34;yuma&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "specificepithet:burti genus:Aspidoscelis locality:Alamo Canyon" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "specificepithet:opatae genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Imantodes gemmistratus mappable:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Hualapai phrynosoma" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "aspidoscelis sacramento" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "henshawi baja" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UAZ" ; Times: 3
+	Query: "genus:micruroides county:&#34;la paz&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "specificepithet:calidipes genus:Aspidoscelis" ; Times: 1
+	Query: "Heloderma horridum mappable:1" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "Hualapai urosaurus" ; Times: 1
+	Query: "specificepithet:flagellicaudus genus:Aspidoscelis" ; Times: 1
+	Query: "laemanctus" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 2
+	Query: "specificepithet:gilberti genus:plestiodon county:&#34;el dorado&#34;" ; Times: 1
+	Query: "navajo county crotaphytus" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "WJ 150 class:reptilia" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Leslie Canyon National Wildlife" ; Times: 2
+	Query: "locality:page ranch county:&#34;pinal&#34;" ; Times: 1
+	Query: "colonia reforma" ; Times: 1
+	Query: "Black buck" ; Times: 2
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "specificepithet:alterna class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:inornatus genus:Aspidoscelis county:&#34;Sandoval&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Baja California Coachwhip" ; Times: 2
+	Query: "35899" ; Times: 1
+	Query: "specificepithet:inornatus genus:Aspidoscelis" ; Times: 1
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "contortrix missouri" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "Arizona mountain kingsnake yavapai county" ; Times: 2
+	Query: "Coleonyx fasciatus sonora" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "Alligator lizard" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "Winslow sceloporus" ; Times: 1
+	Query: "025583" ; Times: 1
+	Query: "aspidoscelis sacramento county" ; Times: 3
+	Query: "ophryacus undulatus" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Micrurus distans mappable:1" ; Times: 1
+	Query: "Crotaphytus San Felipe baja" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "uaz estrella vigilis" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "class:reptilia country:&#34;iraq&#34;" ; Times: 4
+	Query: "33026" ; Times: 1
+	Query: "class:reptilia locality:kofa" ; Times: 3
+	Query: "specificepithet:hyperythrus genus:Aspidoscelis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1263 download events in this period)
+Total number of records downloaded: 8043
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 1
+	Country: United States ; Times: 63
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-18 ; Times: 8
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 6
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-20 ; Times: 4
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-27 ; Times: 6
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 11
+	Date: 2019-04-09 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "specificepithet:calidipes genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "genus:Pachydactylus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:sackii genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:exsanguis genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "specificepithet:angusticeps genus:Aspidoscelis" ; Times: 1
+	Query: "phelsuma hawaii" ; Times: 1
+	Query: "xantusia arizonae" ; Times: 2
+	Query: "specificepithet:inornatus genus:Aspidoscelis" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "Xantusia Arizona" ; Times: 1
+	Query: "specificepithet:parvisocius genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "Xantusia arizonae" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "specificepithet:tesselatus genus:Aspidoscelis" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "Xantusia bezyi" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "henshawi baja" ; Times: 2
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus" ; Times: 1
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:sonorae genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "bullfrog specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:velox genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:flagellicaudus genus:Aspidoscelis" ; Times: 1
+	Query: "Odontophrynus" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:braminus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:communis genus:Aspidoscelis" ; Times: 1
+	Query: "class:amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1890 year &lt;= 1989" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "specificepithet:sexlineatus genus:Aspidoscelis" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:labialis genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:costatus genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "specificepithet:uniparens genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:opatae genus:Aspidoscelis" ; Times: 1
+	Query: "class:reptilia country:&#34;iraq&#34;" ; Times: 3
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "specificepithet:hyperythrus genus:Aspidoscelis" ; Times: 1
+
+
+End of report.
