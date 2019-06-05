@@ -1,0 +1,314 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 347
+Number of records retrieved in searches: 7452
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 46
+	Country: Unknown ; Times: 6
+	Country: Sweden ; Times: 8
+	Country: Micronesia ; Times: 7
+	Country: France ; Times: 1
+	Country: United States ; Times: 229
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 13
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 24
+	Date: 2019-05-31 ; Times: 7
+	Date: 2019-05-09 ; Times: 8
+	Date: 2019-05-08 ; Times: 14
+	Date: 2019-05-07 ; Times: 12
+	Date: 2019-05-06 ; Times: 28
+	Date: 2019-05-05 ; Times: 18
+	Date: 2019-05-04 ; Times: 2
+	Date: 2019-05-03 ; Times: 21
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-01 ; Times: 12
+	Date: 2019-05-25 ; Times: 3
+	Date: 2019-05-24 ; Times: 5
+	Date: 2019-05-27 ; Times: 9
+	Date: 2019-05-26 ; Times: 5
+	Date: 2019-05-21 ; Times: 22
+	Date: 2019-05-20 ; Times: 15
+	Date: 2019-05-23 ; Times: 21
+	Date: 2019-05-22 ; Times: 28
+	Date: 2019-05-29 ; Times: 7
+	Date: 2019-05-28 ; Times: 13
+	Date: 2019-05-18 ; Times: 4
+	Date: 2019-05-19 ; Times: 3
+	Date: 2019-05-10 ; Times: 7
+	Date: 2019-05-11 ; Times: 5
+	Date: 2019-05-12 ; Times: 7
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 9
+	Date: 2019-05-15 ; Times: 3
+	Date: 2019-05-16 ; Times: 20
+	Date: 2019-05-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "54721" ; Times: 1
+	Query: "UAZ 25068" ; Times: 1
+	Query: "Ditmarsi sonora" ; Times: 4
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Smilisca fodiens institutioncode:UAZ" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Yuma&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Epicrates cenchria peru" ; Times: 2
+	Query: "genus:tantilla class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:mcallii genus:Phrynosoma county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lineola genus:Pseudoeurycea" ; Times: 1
+	Query: "specificepithet:yavapaiensis genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Craugastor specificepithet:matudai" ; Times: 1
+	Query: "drymarchon corais peru" ; Times: 1
+	Query: "specificepithet:tarahumaraensis genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 3
+	Query: "genus:lampropeltis alterna county:&#34;val verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "micrurus browni" ; Times: 2
+	Query: "micrurus proximans" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ASU Rana tarahumarae" ; Times: 1
+	Query: "huayacocotla" ; Times: 2
+	Query: "Eurycea tynerensis" ; Times: 3
+	Query: "specificepithet:lepidus genus:crotalus county:&#34;santa cruz&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Umbrivaga pygmaea peru" ; Times: 1
+	Query: "specificepithet:pelagicus genus:Nactus country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "specificepithet:Catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Leptodeira stateprovince:&#34;Jalisco&#34;" ; Times: 4
+	Query: "uaz" ; Times: 1
+	Query: "Short tailed snake" ; Times: 1
+	Query: "phyllodactylus nayarit" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;santa cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:willardi genus:crotalus county:&#34;santa cruz&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Storeria dekayi stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Aspidoscelis locality:Sabino Canyon stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "tokay gecko" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "trivirgata maricopa" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:tantilla class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:tarahumarae genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Willardi sonora" ; Times: 7
+	Query: "jo daviess storeria" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "Micruroides" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus stateprovince:&#34;Baja California Sur&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Caecilian" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Corallus enydris enydris" ; Times: 2
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Lithobates chiricahuensis mappable:1" ; Times: 14
+	Query: "monster" ; Times: 2
+	Query: "helicops angulatus peru" ; Times: 1
+	Query: "specificepithet:braminus genus:Ramphotyphlops country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "specificepithet:smaragdina country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pricei genus:crotalus county:&#34;santa cruz&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "phyllodactylus jalisco" ; Times: 6
+	Query: "Desert tortoise" ; Times: 2
+	Query: "tremor" ; Times: 1
+	Query: "specificepithet:vigilis genus:xantusia county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:werleri genus:Pseudoeurycea" ; Times: 1
+	Query: "Houston toad" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "gila monster Arizona" ; Times: 1
+	Query: "Nightsnake Arizona" ; Times: 3
+	Query: "Coleonyx fasciatus sonora" ; Times: 2
+	Query: "Ornate box turtle" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "umbrivaga pygmaea peru" ; Times: 1
+	Query: "sonora semiannulata arizona" ; Times: 1
+	Query: "Drymarchon corais corais peru" ; Times: 1
+	Query: "pyromelana" ; Times: 6
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:cerastes genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sierra Bacadéhuachi" ; Times: 1
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "specificepithet:smaragdina genus:Lamprolepis country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:lampropeltis alterna county:&#34;terrell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mountain yellow-legged frog" ; Times: 3
+	Query: "specificepithet:vigilis genus:xantusia locality:Jacumba county:&#34;San Diego&#34;" ; Times: 1
+	Query: "arizona elegans contra costa" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rana chiricahuensis mappable:1" ; Times: 14
+	Query: "foothill yellow legged frog" ; Times: 2
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Tigrinum Arizona santa cruz" ; Times: 2
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "county:&#34;pima&#34; recordedby:Quaintance" ; Times: 1
+	Query: "gulf coast toad" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "senticolis nayarit" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "kinosternon integrum nayarit méxico" ; Times: 10
+	Query: "Caecilian order:Gymnophiona" ; Times: 1
+	Query: "genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "institutioncode:uaz" ; Times: 1
+	Query: "tokay" ; Times: 1
+	Query: "Rainbow snake" ; Times: 5
+	Query: "holotype vntype:specimen genus:Ambystoma hastypestatus:1" ; Times: 1
+	Query: "specificepithet:elegans genus:coleonyx stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "Utah Mountain kingsnake" ; Times: 1
+	Query: "KK 767" ; Times: 1
+	Query: "sonoran coral snake" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 6
+	Query: "lithobates tarahumarae Arizona" ; Times: 2
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:UAZ" ; Times: 1
+	Query: "senticolis jalisco" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "43627" ; Times: 1
+	Query: "Bacadéhuachi" ; Times: 1
+	Query: "levicollis" ; Times: 1
+	Query: "specificepithet:bombifrons genus:spea country:&#34;mexico&#34;" ; Times: 1
+	Query: "Florida Farancia erytrogramma" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:galeanae genus:Pseudoeurycea" ; Times: 3
+	Query: "lithobates tarahumarae" ; Times: 1
+	Query: "platyrhinos maricopa" ; Times: 2
+	Query: "genus:Lamprolepis country:&#34;Marshall Islands&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 3
+	Query: "American crocodile" ; Times: 6
+	Query: "34130" ; Times: 1
+	Query: "specificepithet:braminus country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "contortrix missouri" ; Times: 1
+	Query: "palarostris" ; Times: 3
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Ventura&#34;" ; Times: 1
+	Query: "Lampropeltis sonora mexico" ; Times: 4
+	Query: "slender salamander" ; Times: 1
+	Query: "specificepithet:parvus genus:Sceloporus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Tyler&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ucla 17657" ; Times: 1
+	Query: "Lichanura" ; Times: 5
+	Query: "specificepithet:modestum genus:phrynosoma class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "PYROMELANA" ; Times: 1
+	Query: "genus:charina county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:Heloderma county:&#34;Yuma&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Rana chiricahuensis" ; Times: 2
+	Query: "Eurycea tynerensis Oklahoma" ; Times: 2
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "mountain yellow legged frog" ; Times: 1
+	Query: "(Leptodeira frenata)" ; Times: 1
+	Query: "Giant Salamander" ; Times: 1
+	Query: "Corallus enydris enydris peru" ; Times: 3
+	Query: "specificepithet:magnaocularis genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "desert night lizard" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Arroyo Toad" ; Times: 14
+	Query: "heterodon arizona" ; Times: 1
+	Query: "Umbrivaga pygmaea" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pyromelana Arizona" ; Times: 3
+	Query: "Chiricahua Leopard frog" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 940 download events in this period)
+Total number of records downloaded: 4238
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Switzerland ; Times: 3
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-09 ; Times: 4
+	Date: 2019-05-08 ; Times: 4
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-05 ; Times: 2
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 5
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "specificepithet:galeanae genus:Pseudoeurycea" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "specificepithet:rufescens genus:Bolitoglossa" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "barisia" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "&#34;Bungarus&#34;" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "specificepithet:chiropterus genus:Chiropterotriton stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Bolitoglossa" ; Times: 1
+	Query: "kinosternon integrum nayarit méxico" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "genus:Ambystoma hastypestatus:1" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "family:Phyllodactylidae" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "sauromalus AND CA" ; Times: 1
+	Query: "kentropyx calcarata" ; Times: 2
+	Query: "sauromalus" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 1
+
+
+End of report.
