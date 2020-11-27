@@ -1,0 +1,614 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 839
+Number of records retrieved in searches: 24323
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 799
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 14
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 11
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-01 ; Times: 3
+	Date: 2020-01-07 ; Times: 5
+	Date: 2020-01-06 ; Times: 7
+	Date: 2020-01-05 ; Times: 6
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-21 ; Times: 16
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-09 ; Times: 8
+	Date: 2020-01-08 ; Times: 10
+	Date: 2020-01-25 ; Times: 12
+	Date: 2020-01-24 ; Times: 157
+	Date: 2020-01-27 ; Times: 20
+	Date: 2020-01-26 ; Times: 16
+	Date: 2020-01-29 ; Times: 25
+	Date: 2020-01-28 ; Times: 35
+	Date: 2020-01-18 ; Times: 226
+	Date: 2020-01-19 ; Times: 30
+	Date: 2020-01-23 ; Times: 115
+	Date: 2020-01-14 ; Times: 2
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-30 ; Times: 7
+	Date: 2020-01-17 ; Times: 41
+	Date: 2020-01-10 ; Times: 4
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 22
+	Date: 2020-01-13 ; Times: 32
+	Date: 2020-01-31 ; Times: 15
+	Date: 2020-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:muscosa genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:brevipes genus:Cyclorana" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:bordai genus:Phyllodactylus institutioncode:UAZ" ; Times: 6
+	Query: "specificepithet:davisi genus:Phyllodactylus institutioncode:UAZ" ; Times: 6
+	Query: "Lepidophyma pajapanensis" ; Times: 1
+	Query: "specificepithet:yavapaiensis genus:Rana" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "specificepithet:pentadactylus genus:Leptodactylus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:rothii genus:Litoria institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:usta genus:Gastrophryne institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:vaillanti genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "specificepithet:bocourti genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "Aspidoscelis calidipes" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:tau genus:Trimorphodon" ; Times: 1
+	Query: "Terrapene ornata mexico" ; Times: 2
+	Query: "specificepithet:rugosa genus:Rana" ; Times: 1
+	Query: "specificepithet:euphorbiacea genus:Hyla" ; Times: 1
+	Query: "specificepithet:margaritifer genus:Bufo" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus" ; Times: 1
+	Query: "specificepithet:magnaocularis genus:Rana" ; Times: 1
+	Query: "Mesoscincus schwartzei" ; Times: 1
+	Query: "specificepithet:forreri genus:Rana" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla" ; Times: 1
+	Query: "Phyllodactylus bordai" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:mauritanicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "batrachoseps attenuatus county:&#34;Fresno&#34;" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "Plestiodon parviauriculatus" ; Times: 1
+	Query: "genus:Aneides county:&#34;Orange&#34;" ; Times: 1
+	Query: "specificepithet:euphorbiacea genus:Hyla institutioncode:UAZ" ; Times: 1
+	Query: "h nichols" ; Times: 3
+	Query: "specificepithet:sylvatica genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "Aspidoscelis opatae" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:UAZ" ; Times: 6
+	Query: "craugastor pygmaeus" ; Times: 2
+	Query: "1511 genus:Phyllodactylus" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 6
+	Query: "specificepithet:occidentalis genus:Odontophrynus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:palustris genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Bufo" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "specificepithet:aurea genus:Litoria institutioncode:UAZ" ; Times: 1
+	Query: "rainbow snake" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UAZ" ; Times: 6
+	Query: "thamnophis cyrtopsis" ; Times: 2
+	Query: "calamita Bufo" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:variolosus genus:Hypopachus institutioncode:UAZ" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:borealis genus:Kaloula institutioncode:UAZ" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:UAZ" ; Times: 1
+	Query: "marble salamander" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:UAZ" ; Times: 1
+	Query: "&#34;senticolis triaspis&#34; arizona" ; Times: 1
+	Query: "specificepithet:basiliscus genus:Crotalus" ; Times: 3
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "genus:ensatina county:&#34;Orange&#34;" ; Times: 1
+	Query: "arizona &#34;charina trivirgata&#34; country:united states" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "specificepithet:esculenta genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:cristatus genus:Bufo" ; Times: 1
+	Query: "specificepithet:euthysanota genus:Ptychohyla" ; Times: 1
+	Query: "specificepithet:bocourti genus:Bufo" ; Times: 1
+	Query: "Lithobates pustulosus" ; Times: 3
+	Query: "specificepithet:crepitans genus:Acris institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:retiformis genus:Bufo" ; Times: 1
+	Query: "specificepithet:hendricksoni genus:Leptobrachium" ; Times: 1
+	Query: "american crocodile" ; Times: 1
+	Query: "specificepithet:peronii genus:Litoria institutioncode:UAZ" ; Times: 1
+	Query: "Elgaria paucicarinata" ; Times: 1
+	Query: "specificepithet:saharica genus:Rana" ; Times: 1
+	Query: "uaz tule bezy" ; Times: 1
+	Query: "specificepithet:cristatellus genus:anolis sex:female" ; Times: 1
+	Query: "stateprovince:&#34;Indiana&#34; (copperhead)" ; Times: 3
+	Query: "39597" ; Times: 2
+	Query: "specificepithet:sphenocephala genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:magnaocularis genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:amurensis genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Osteopilus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "specificepithet:rubella genus:Litoria institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:regilla genus:Pseudacris institutioncode:UAZ" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;west Virginia&#34;" ; Times: 1
+	Query: "uaz estrella xantusia" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:borealis genus:Kaloula" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "39813" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:Craugastor" ; Times: 1
+	Query: "locality:Tahquitz county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2008" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "Terrapene ornata sonora" ; Times: 2
+	Query: "Sonoran coral snake" ; Times: 2
+	Query: "specificepithet:mazatlanensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:fasciata genus:Homonota institutioncode:UAZ" ; Times: 6
+	Query: "specificepithet:boreas genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "Coleonyx fasciatus" ; Times: 2
+	Query: "phymaturus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:alfredi genus:Craugastor" ; Times: 1
+	Query: "specificepithet:ocularis genus:Pseudacris institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:cognatus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:cadaverina genus:Pseudacris institutioncode:UAZ" ; Times: 1
+	Query: "Cnemaspis africana" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:poncensis genus:anolis sex:male" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Bufo" ; Times: 1
+	Query: "specificepithet:barberi genus:Hypopachus" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Lepidophyma tuxtlae" ; Times: 1
+	Query: "specificepithet:peronii genus:Limnodynastes institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:cristatus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris institutioncode:UAZ" ; Times: 1
+	Query: "Sceloporus maculosus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:alvarius genus:Bufo" ; Times: 1
+	Query: "Dwarf siren" ; Times: 1
+	Query: "Crotalus Stejnegeri" ; Times: 2
+	Query: "pretiosa Rana" ; Times: 1
+	Query: "mexican gartersnake" ; Times: 2
+	Query: "specificepithet:microscaphus family:bufonidae country:&#34;Mexico&#34; institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:rhodopis genus:Craugastor" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:rugulosus genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:terrestris genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:usta genus:Gastrophryne" ; Times: 1
+	Query: "specificepithet:rothii genus:Litoria" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UAZ" ; Times: 4
+	Query: "specificepithet:pipiens genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:UAZ" ; Times: 1
+	Query: "smooth green snake" ; Times: 2
+	Query: "specificepithet:calamita genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "conopsis nasus sinaloa" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "specificepithet:georgeensis genus:Aristelliger institutioncode:UAZ" ; Times: 7
+	Query: "specificepithet:boulengeri genus:Scinax" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Aspidoscelis maximus" ; Times: 1
+	Query: "specificepithet:lineatus genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Scinax institutioncode:UAZ" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "Aspidoscelis mexicanus" ; Times: 1
+	Query: "specificepithet:pipilans genus:Eleutherodactylus" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Sceloporus heterolepis" ; Times: 1
+	Query: "specificepithet:fodiens genus:Smilisca" ; Times: 1
+	Query: "specificepithet:nitidus genus:Eleutherodactylus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:spinulosus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Pinus leiophylla" ; Times: 1
+	Query: "&#34;trivirgata&#34; arizona country:united states" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 2
+	Query: "coniophanes piceivittis mexico" ; Times: 1
+	Query: "specificepithet:mauritanicus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:cognatus genus:Bufo" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 1
+	Query: "specificepithet:valliceps genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:esculenta genus:Rana" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 8
+	Query: "pituophis lineaticollis mexico" ; Times: 1
+	Query: "specificepithet:amurensis genus:Rana" ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina" ; Times: 1
+	Query: "specificepithet:triseriata genus:Pseudacris institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:mazatlanensis genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Limnodynastes institutioncode:UAZ" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 1
+	Query: "specificepithet:vaillanti genus:Rana" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Plestiodon lagunensis" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 4
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:UAZ" ; Times: 6
+	Query: "Sauromalus Nevada" ; Times: 2
+	Query: "Lyre Snake" ; Times: 1
+	Query: "specificepithet:augusti class:amphibia" ; Times: 2
+	Query: "specificepithet:tarahumarae genus:Rana" ; Times: 1
+	Query: "specificepithet:squirella genus:Hyla institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:stratulus genus:anolis sex:female" ; Times: 1
+	Query: "specificepithet:cavifrons genus:Bufo" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Phrynosoma ditmarsi" ; Times: 1
+	Query: "13990" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Polypedates" ; Times: 1
+	Query: "specificepithet:pipilans genus:Eleutherodactylus institutioncode:UAZ" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "specificepithet:petasatus genus:Triprion" ; Times: 1
+	Query: "uaz tule xantusia" ; Times: 1
+	Query: "specificepithet:canaliferus genus:Bufo" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 10
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Tantilla yaquia" ; Times: 1
+	Query: "specificepithet:debilis genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:barberi genus:Hypopachus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:staufferi genus:Scinax institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:alfredi genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:versicolor genus:Hyla institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:yavapaiensis genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:platycephala genus:Cyclorana" ; Times: 1
+	Query: "specificepithet:deserti genus:Tarentola institutioncode:UAZ" ; Times: 4
+	Query: "gopherus durango" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:UAZ" ; Times: 7
+	Query: "ficimia texas" ; Times: 2
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "thamnophis sirtalis mexico" ; Times: 1
+	Query: "specificepithet:chiricahuensis genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:UAZ" ; Times: 7
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:rugosa genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sauromalus klauberi" ; Times: 1
+	Query: "specificepithet:bezyi genus:xantusia" ; Times: 1
+	Query: "Rhadinaea hesperia" ; Times: 1
+	Query: "specificepithet:microscaphus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:grammicus genus:sceloporus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UAZ" ; Times: 6
+	Query: "Lithobates yavapaiensis" ; Times: 1
+	Query: "specificepithet:blairi genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "Vinesnake" ; Times: 1
+	Query: "specificepithet:hendricksoni genus:Leptobrachium institutioncode:UAZ" ; Times: 1
+	Query: "Terrapene ornata country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:calamita genus:Bufo" ; Times: 1
+	Query: "specificepithet:retiformis genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:tarahumaraensis genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "&#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:lineatus genus:Craugastor" ; Times: 1
+	Query: "Plestiodon parvulus" ; Times: 1
+	Query: "specificepithet:laevis genus:Xenopus institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla institutioncode:UAZ" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "copperhead stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:chiricahuensis genus:Rana" ; Times: 1
+	Query: "specificepithet:cavifrons genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:spatulatus genus:Triprion" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "amphiuma texas" ; Times: 3
+	Query: "specificepithet:spinosa genus:Anotheca" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus" ; Times: 1
+	Query: "Aristelliger georgeensis" ; Times: 1
+	Query: "Sauromalus varius" ; Times: 2
+	Query: "specificepithet:microscaphus genus:Bufo" ; Times: 1
+	Query: "specificepithet:matudai genus:Plectrohyla" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:UAZ" ; Times: 4
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "micrurus browni" ; Times: 2
+	Query: "Sceloporus lundelli" ; Times: 1
+	Query: "Crotalus stejnegeri" ; Times: 2
+	Query: "Lepidophyma micropholis" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;PIMA&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 9
+	Query: "amastridium veliferum" ; Times: 2
+	Query: "specificepithet:forreri genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:UAZ" ; Times: 5
+	Query: "uaz vigilis estrella" ; Times: 1
+	Query: "Coluber constrictor hidalgo county texas" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:rugulosus genus:Craugastor" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "specificepithet:nigromaculata genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UAZ" ; Times: 6
+	Query: "genus:Phrynosoma hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "h. nichols" ; Times: 7
+	Query: "specificepithet:tarahumaraensis genus:Craugastor" ; Times: 1
+	Query: "specificepithet:euthysanota genus:Ptychohyla institutioncode:UAZ" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "Sceloporus lemosespinali" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:gryllus genus:Acris institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla" ; Times: 1
+	Query: "specificepithet:rhodopis genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "gopherus sonora" ; Times: 2
+	Query: "specificepithet:saharica genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:nitidus genus:Eleutherodactylus" ; Times: 1
+	Query: "Tantilla calamarina" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates institutioncode:UAZ" ; Times: 1
+	Query: "genus:Callisaurus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "specificepithet:alvarius genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 3
+	Query: "specificepithet:viridis genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:regularis genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 263
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "specificepithet:tarahumarae genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:Craugastor institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:australis genus:Cyclorana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:nigromaculata genus:Rana" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 8
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "specificepithet:clamitans genus:Rana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:dacnicolor genus:Pachymedusa institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:UAZ" ; Times: 6
+	Query: "Lithobates pustulosus UAZ" ; Times: 3
+	Query: "specificepithet:platycephala genus:Cyclorana institutioncode:UAZ" ; Times: 1
+	Query: "Lepidophyma sylvaticum" ; Times: 1
+	Query: "specificepithet:poncensis genus:anolis sex:female" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor" ; Times: 1
+	Query: "craugastor pygmaeus mexico" ; Times: 2
+	Query: "specificepithet:spatulatus genus:Triprion institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:unctus genus:Phyllodactylus institutioncode:UAZ" ; Times: 6
+	Query: "specificepithet:mexicanus genus:Craugastor" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34; year &gt;= 1975 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:margaritifer genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 34
+	Query: "specificepithet:bufo genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:dacnicolor genus:Pachymedusa" ; Times: 1
+	Query: "Phyllodactylus davisi" ; Times: 1
+	Query: "specificepithet:fodiens genus:Smilisca institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:brevipes genus:Cyclorana institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:macrotis genus:Polypedates institutioncode:UAZ" ; Times: 1
+	Query: "arizona &#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "specificepithet:bibronii genus:Pseudophryne institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:debilis genus:Bufo" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "recordedby:Willig" ; Times: 1
+	Query: "San Bernardino ringneck snake" ; Times: 1
+	Query: "specificepithet:spinosa genus:Anotheca institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:matudai genus:Plectrohyla institutioncode:UAZ" ; Times: 1
+	Query: "&#34;senticolis triaspis&#34; arizona country:united states" ; Times: 1
+	Query: "specificepithet:canaliferus genus:Bufo institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:bicolor genus:Litoria institutioncode:UAZ" ; Times: 1
+	Query: "specificepithet:petasatus genus:Triprion institutioncode:UAZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 169 (out of 1584 download events in this period)
+Total number of records downloaded: 9639
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 139
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-28 ; Times: 19
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 3
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 37
+	Date: 2020-01-24 ; Times: 47
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 5
+	Date: 2020-01-31 ; Times: 25
+	Date: 2020-01-10 ; Times: 3
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Phyllodactylus muralis" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Aristelliger georgeensis" ; Times: 1
+	Query: "Aspidoscelis burti" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "uaz estrella xantusia" ; Times: 3
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Phrynosoma ditmarsi" ; Times: 1
+	Query: "Lepidophyma pajapanensis" ; Times: 1
+	Query: "Aspidoscelis ceralbensis" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 1
+	Query: "Aspidoscelis neomexicanus" ; Times: 1
+	Query: "Aspidoscelis sackii" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Crotaphytus nebrius" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "plethodon elongatus" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "Sauromalus varius" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "Sceloporus lundelli" ; Times: 1
+	Query: "Phyllodactylus lanei" ; Times: 1
+	Query: "specificepithet:tau genus:Trimorphodon" ; Times: 1
+	Query: "Plestiodon lagunensis" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lepidophyma micropholis" ; Times: 1
+	Query: "Coleonyx fasciatus" ; Times: 1
+	Query: "Crotaphytus dickersonae" ; Times: 2
+	Query: "Phyllodactylus unctus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Aspidoscelis guttatus" ; Times: 1
+	Query: "genus:Thamnophis hassex:1 haslength:1" ; Times: 1
+	Query: "Phyllodactylus bordai" ; Times: 1
+	Query: "Sceloporus maculosus" ; Times: 1
+	Query: "Phyllodactylus xanti" ; Times: 1
+	Query: "&#34;bd&#34; order:anura" ; Times: 1
+	Query: "Cnemaspis africana" ; Times: 1
+	Query: "Nactus pelagicus" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "Hemidactylus brookii" ; Times: 4
+	Query: "Sceloporus chrysostictus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plestiodon parviauriculatus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 2
+	Query: "Sceloporus lemosespinali" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "Lepidophyma gaigeae" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Lepidophyma tuxtlae" ; Times: 1
+	Query: "Guadalajara class:Reptilia" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "Phyllodactylus homolepidurus" ; Times: 1
+	Query: "Aspidoscelis opatae" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Tantilla calamarina" ; Times: 1
+	Query: "Aspidoscelis costatus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "Sceloporus hunsakeri" ; Times: 1
+	Query: "ficimia texas" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus" ; Times: 1
+	Query: "Sceloporus licki" ; Times: 1
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Aspidoscelis uniparens" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "genus:Phrynosoma hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "Tropidurus hispidus" ; Times: 1
+	Query: "Sceloporus cozumelae" ; Times: 1
+	Query: "genus:Crotaphytus hassex:1 haslength:1" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Sauromalus klauberi" ; Times: 1
+	Query: "specificepithet:bezyi genus:xantusia" ; Times: 1
+	Query: "Sceloporus ornatus" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phyllodactylus davisi" ; Times: 2
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+	Query: "Lepidophyma sylvaticum" ; Times: 1
+	Query: "Cyrtopodion scabrum" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sceloporus parvus" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Aspidoscelis angusticeps" ; Times: 1
+	Query: "Sceloporus nelsoni" ; Times: 1
+	Query: "Petrosaurus thalassinus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Aspidoscelis sonorae" ; Times: 1
+	Query: "Aspidoscelis maximus" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "Sceloporus utiformis" ; Times: 1
+	Query: "arizona &#34;charina trivirgata&#34; country:united states" ; Times: 1
+	Query: "Aspidoscelis labialis" ; Times: 1
+	Query: "Plestiodon parvulus" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "genus:Aspidoscelis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "Aspidoscelis mexicanus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "Aspidoscelis hyperythrus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Sceloporus heterolepis" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "arizona &#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "Mesoscincus schwartzei" ; Times: 1
+	Query: "Elgaria paucicarinata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Aspidoscelis calidipes" ; Times: 1
+	Query: "Tropidonophis" ; Times: 1
+	Query: "Guadalajara class:Amphibia" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+
+
+End of report.
