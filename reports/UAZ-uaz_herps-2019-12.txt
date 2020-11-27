@@ -1,0 +1,264 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 192
+Number of records retrieved in searches: 1860
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 120
+	Country: Sweden ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 33
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 13
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-23 ; Times: 8
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-29 ; Times: 3
+	Date: 2019-12-28 ; Times: 4
+	Date: 2019-12-18 ; Times: 7
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-10 ; Times: 7
+	Date: 2019-12-11 ; Times: 13
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 4
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-15 ; Times: 2
+	Date: 2019-12-16 ; Times: 3
+	Date: 2019-12-17 ; Times: 10
+	Date: 2019-12-30 ; Times: 7
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-09 ; Times: 11
+	Date: 2019-12-08 ; Times: 10
+	Date: 2019-12-07 ; Times: 7
+	Date: 2019-12-06 ; Times: 3
+	Date: 2019-12-05 ; Times: 10
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-03 ; Times: 4
+	Date: 2019-12-02 ; Times: 46
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "Crotalus scutulatus hasmass:1" ; Times: 1
+	Query: "homonota fasciata" ; Times: 1
+	Query: "order:Caudata stateprovince:&#34;North Carolina&#34; lifestage:Adult (salamander)" ; Times: 1
+	Query: "specificepithet:lugubris class:amphibia county:&#34;mariposa&#34;" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "pituophis lineaticollis mexico" ; Times: 2
+	Query: "Ramphotyphlops braminus haslength:1" ; Times: 1
+	Query: "brazos copperhead" ; Times: 8
+	Query: "institutioncode:UAZ" ; Times: 2
+	Query: "55764" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 2
+	Query: "Iguana iguana haslength:1" ; Times: 1
+	Query: "Kinosternon integrum hasmass:1" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma county:&#34;Mohave&#34;" ; Times: 1
+	Query: "Oxybelis aeneus hasmass:1" ; Times: 1
+	Query: "genus:xenopus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "dunes sagebrush" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;los angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 5
+	Query: "Bufo americanus oklahoma" ; Times: 2
+	Query: "Ameiva ameiva haslength:1" ; Times: 1
+	Query: "Ameiva ameiva ameiva haslength:1" ; Times: 1
+	Query: "specificepithet:punctatus family:bufonidae county:&#34;Yuma&#34;" ; Times: 1
+	Query: "willardi mexico" ; Times: 1
+	Query: "specificepithet:lugubris county:&#34;mariposa&#34;" ; Times: 1
+	Query: "UAZ 40162" ; Times: 1
+	Query: "Bufo marinus haslength:1" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Pseudoeurycea specificepithet:werleri" ; Times: 1
+	Query: "020195" ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "Thorny devil" ; Times: 2
+	Query: "Boa constrictor haslength:1" ; Times: 1
+	Query: "leptodeira maculata mexico" ; Times: 1
+	Query: "Rhus ovata" ; Times: 2
+	Query: "inornatus coconino may" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "Trimorphodon biscutatus haslength:1" ; Times: 1
+	Query: "Santa Rosa snake" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Trimorphodon biscutatus hasmass:1" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "inornatus Gila" ; Times: 1
+	Query: "coachwhip" ; Times: 1
+	Query: "LAMPROPELTIS PyROMELANA" ; Times: 1
+	Query: "Thamnophis marcianus hasmass:1" ; Times: 1
+	Query: "specificepithet:horridum genus:heloderma" ; Times: 1
+	Query: "Hemidactylus turcicus haslength:1" ; Times: 1
+	Query: "Hemidactylus turcicus hasmass:1" ; Times: 1
+	Query: "Iguana iguana hasmass:1" ; Times: 1
+	Query: "inornatus maricopa" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "Crotalus scutulatus haslength:1" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "Trachemys scripta haslength:1" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "Iguana iguana iguana haslength:1" ; Times: 1
+	Query: "Ameiva ameiva ameiva hasmass:1" ; Times: 1
+	Query: "Iguana iguana iguana hasmass:1" ; Times: 1
+	Query: "Crotalus molossus hasmass:1" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "Thamnophis cyrtopsis haslength:1" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "dunes sagebrush lizard" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "plestiodon lynxe" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "hemidactylus mexico mexico" ; Times: 4
+	Query: "Angel de la Guarda specificepithet:ruber genus:Crotalus" ; Times: 2
+	Query: "rana vaillanti mexico" ; Times: 2
+	Query: "Ctenosaura similis hasmass:1" ; Times: 1
+	Query: "specificepithet:vigilis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Saint Charles&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:Brattstrom year &gt;= 1953 year &lt;= 1953 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "specificepithet:cognatus genus:Bufo county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:blairi genus:Rana county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:tau genus:Trimorphodon" ; Times: 1
+	Query: "phrynosoma orbiculare mexico" ; Times: 1
+	Query: "Boa constrictor constrictor haslength:1" ; Times: 1
+	Query: "Crotalus molossus haslength:1" ; Times: 1
+	Query: "specificepithet:elegans class:reptilia county:&#34;Mariposa&#34;" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "arizona zacatecas" ; Times: 1
+	Query: "eleutherodactylus morelos" ; Times: 2
+	Query: "sceloporus jarrovi zacatecas" ; Times: 1
+	Query: "specificepithet:vigilis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 4
+	Query: "crotalus stejnegeri" ; Times: 4
+	Query: "13110" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "Thamnophis marcianus haslength:1" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Trachemys scripta hasmass:1" ; Times: 1
+	Query: "Thamnophis cyrtopsis hasmass:1" ; Times: 1
+	Query: "genus:sceloporus county:&#34;okanogan&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "specificepithet:vigilis class:reptilia county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:ater genus:sauromalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plestiodon parvulus" ; Times: 1
+	Query: "00624" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "Ameiva ameiva hasmass:1" ; Times: 1
+	Query: "senticolis triaspis mexico" ; Times: 3
+	Query: "Xantusia bezyi" ; Times: 2
+	Query: "plestiodon brevirostris mexico" ; Times: 8
+	Query: "genus:Kinosternon county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Tantilla+rubra" ; Times: 1
+	Query: "Ninia diademata haslength:1" ; Times: 1
+	Query: "33534" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:aneides class:amphibia county:&#34;Mariposa&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum haslength:1" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "Ctenosaura similis haslength:1" ; Times: 1
+	Query: "genus:Sceloporus county:&#34;Okanogan&#34;" ; Times: 4
+	Query: "craugastor rhodopis mexico" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Emydoidea blanding" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "uaz inornatus persons" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Winn&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bothrops asper haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 596 download events in this period)
+Total number of records downloaded: 3323
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 17
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 13
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 12
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-17 ; Times: 1
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:augusti genus:Craugastor country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:lugubris class:amphibia county:&#34;mariposa&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Rana county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Barisia levicollis" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Kinosternon county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:tau genus:Trimorphodon" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "barisia imbricata" ; Times: 1
+	Query: "Emydoidea blanding" ; Times: 1
+	Query: "Oedipina Uniformis" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+
+
+End of report.
