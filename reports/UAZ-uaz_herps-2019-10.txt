@@ -1,0 +1,412 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 378
+Number of records retrieved in searches: 3927
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 10
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 319
+	Country: Sweden ; Times: 6
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-08 ; Times: 8
+	Date: 2019-10-21 ; Times: 11
+	Date: 2019-10-20 ; Times: 3
+	Date: 2019-10-27 ; Times: 2
+	Date: 2019-10-26 ; Times: 4
+	Date: 2019-10-25 ; Times: 5
+	Date: 2019-10-24 ; Times: 20
+	Date: 2019-10-01 ; Times: 5
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-02 ; Times: 13
+	Date: 2019-10-04 ; Times: 10
+	Date: 2019-10-07 ; Times: 10
+	Date: 2019-10-06 ; Times: 5
+	Date: 2019-10-23 ; Times: 17
+	Date: 2019-10-22 ; Times: 84
+	Date: 2019-10-29 ; Times: 3
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 4
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-11 ; Times: 10
+	Date: 2019-10-16 ; Times: 20
+	Date: 2019-10-31 ; Times: 23
+	Date: 2019-10-14 ; Times: 9
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-15 ; Times: 80
+	Date: 2019-10-28 ; Times: 5
+	Date: 2019-10-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2016" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2015" ; Times: 1
+	Query: "sceloporus utiformis sinaloa" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "leptodactylus sinaloa" ; Times: 1
+	Query: "leptodeira punctata sinaloa" ; Times: 2
+	Query: "Crotalus Tancitaro" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "bufo marmoreus sinaloa" ; Times: 1
+	Query: "specificepithet:compactilis stateprovince:&#34;jalisco&#34;" ; Times: 1
+	Query: "hypsiglena torquata sinaloa" ; Times: 1
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2011" ; Times: 1
+	Query: "Pituophis sinaloa" ; Times: 1
+	Query: "Lithobates chiricahuensis 1972" ; Times: 1
+	Query: "hyla arenicolor sinaloa" ; Times: 1
+	Query: "ctenosaura pectinata sinaloa" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "nerodia melanogaster" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "bufo marinus sinaloa" ; Times: 1
+	Query: "masticophis mentovarius sinaloa" ; Times: 1
+	Query: "leptophis diplotropis sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus 1985" ; Times: 1
+	Query: "crotalus atrox sinaloa" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 1
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "leptotyphlops humilis sinaloa" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "heloderma sinaloa" ; Times: 2
+	Query: "Odontophrynus occidentalis" ; Times: 1
+	Query: "Lithobates chiricahuensis 1978" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Maryland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Grotto Salamander" ; Times: 2
+	Query: "thamnophis cyrtopsis sinaloa" ; Times: 1
+	Query: "pseudoficimia frontalis sinaloa" ; Times: 1
+	Query: "hyla colima" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1972" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1973" ; Times: 1
+	Query: "senticolis triaspis sinaloa" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "tantilla yaquia sinaloa" ; Times: 1
+	Query: "locality:New Hanover" ; Times: 2
+	Query: "Sauromalus Nevada" ; Times: 18
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "drymarchon sinaloa" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "phrynosoma solare sinaloa" ; Times: 1
+	Query: "Phrynosoma orbiculare orbiculare" ; Times: 3
+	Query: "salvadora colima" ; Times: 1
+	Query: "Lithobates chiricahuensis 1993" ; Times: 1
+	Query: "masticophis bilineatus sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "sceloporus heterolepis sinaloa" ; Times: 1
+	Query: "rana colima" ; Times: 3
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "32783" ; Times: 1
+	Query: "bufo alvarius sinaloa" ; Times: 2
+	Query: "rana tarahumarae sinaloa" ; Times: 1
+	Query: "gyalopion sinaloa" ; Times: 1
+	Query: "aspidoscelis tigris sinaloa" ; Times: 2
+	Query: "stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; (copperhead)" ; Times: 1
+	Query: "sceloporus nelsoni sinaloa" ; Times: 1
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "Gopherus agassizii 2015" ; Times: 1
+	Query: "phyllodactylus colima" ; Times: 1
+	Query: "Gopherus agassizii 1983" ; Times: 1
+	Query: "crotalus lepidus new mexico" ; Times: 1
+	Query: "leptodeira splendida sinaloa" ; Times: 1
+	Query: "Agkistrodon sinaloa" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2008" ; Times: 1
+	Query: "Sistrurus catenatus 2000" ; Times: 1
+	Query: "sonora aemula sinaloa" ; Times: 1
+	Query: "rana forreri sinaloa" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "ambystoma sinaloa" ; Times: 3
+	Query: "crotalus basiliscus sinaloa" ; Times: 1
+	Query: "family:helodermatidae haslength:1" ; Times: 2
+	Query: "Lithobates chiricahuensis 1979" ; Times: 1
+	Query: "Gopherus agassizii 1973" ; Times: 1
+	Query: "Triprion spatulatus" ; Times: 2
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "kinosternon integrum sinaloa" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "genus:Micruroides stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lengthinmm &gt;= 200 lengthinmm &lt;= 1000 lengthtype:snout-vent length range" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 1
+	Query: "Lithobates chiricahuensis 2013" ; Times: 1
+	Query: "Salvadora bairdi" ; Times: 2
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "Lithobates chiricahuensis 2016" ; Times: 1
+	Query: "Lithobates chiricahuensis 2014" ; Times: 1
+	Query: "Lithobates chiricahuensis 2015" ; Times: 1
+	Query: "gastrophryne sinaloa" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gopherus agassizii 1974" ; Times: 1
+	Query: "Gopherus agassizii 2002" ; Times: 1
+	Query: "Gopherus agassizii 2004" ; Times: 1
+	Query: "Gopherus agassizii 2005" ; Times: 1
+	Query: "Gopherus agassizii 2006" ; Times: 1
+	Query: "Gopherus agassizii 2007" ; Times: 1
+	Query: "Gopherus agassizii 2008" ; Times: 1
+	Query: "locality:el rancho rd" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "western fence lizard" ; Times: 2
+	Query: "Gopherus agassizii 1979" ; Times: 1
+	Query: "phyllodactylus tuberculosus sinaloa" ; Times: 2
+	Query: "spiny softshell" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "phyllorhynchus browni sinaloa" ; Times: 1
+	Query: "berlandieri specificepithet:berlandieri genus:Rana stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Agkistrodon piscivorus tennessee" ; Times: 3
+	Query: "streckeri Pseudacris" ; Times: 1
+	Query: "specificepithet:lineaticollis genus:Pituophis country:&#34;México&#34;" ; Times: 3
+	Query: "eleutherodactylus colima" ; Times: 2
+	Query: "sceloporus jarrovi sinaloa" ; Times: 1
+	Query: "sauromalus klauberi" ; Times: 16
+	Query: "genus:Sphaerodactylus country:&#34;Mexico&#34; AND (NOT argus NOT millepunctatus)" ; Times: 2
+	Query: "Sistrurus catenatus 1972" ; Times: 1
+	Query: "hypopachus sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus 1977" ; Times: 1
+	Query: "Sistrurus catenatus 1976" ; Times: 1
+	Query: "Pseudacris triseriata UAZ" ; Times: 6
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "Kaloula borealis" ; Times: 1
+	Query: "Lithobates chiricahuensis 2000" ; Times: 1
+	Query: "crotalus willardi" ; Times: 16
+	Query: "mixcoatlus melanurus" ; Times: 3
+	Query: "Lithobates chiricahuensis 2007" ; Times: 1
+	Query: "bufo cognatus sinaloa" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "sceloporus bulleri sinaloa" ; Times: 2
+	Query: "Lithobates chiricahuensis 1974" ; Times: 1
+	Query: "Gopherus agassizii 2013" ; Times: 1
+	Query: "Lithobates chiricahuensis 1976" ; Times: 1
+	Query: "pyromelana" ; Times: 2
+	Query: "Lithobates chiricahuensis 1973" ; Times: 1
+	Query: "white tiger" ; Times: 1
+	Query: "Sistrurus catenatus 1986" ; Times: 1
+	Query: "Sistrurus catenatus 1980" ; Times: 1
+	Query: "Sistrurus catenatus 1981" ; Times: 1
+	Query: "Sistrurus catenatus 1983" ; Times: 1
+	Query: "conopsis sinaloa" ; Times: 2
+	Query: "rhinocheilus sinaloa" ; Times: 1
+	Query: "smilisca baudini sinaloa" ; Times: 1
+	Query: "phrynosoma colima" ; Times: 1
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "iguana iguana sinaloa" ; Times: 1
+	Query: "sistrurus arizona" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lampropeltis sinaloa" ; Times: 2
+	Query: "Gopherus agassizii 1989" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 2
+	Query: "rana magnaocularis sinaloa" ; Times: 1
+	Query: "leptodeira maculata sinaloa" ; Times: 1
+	Query: "Siberian wood frog" ; Times: 1
+	Query: "pseudoeurycea colima" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UAZ" ; Times: 3
+	Query: "pachymedusa dacnicolor sinaloa" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2010" ; Times: 1
+	Query: "callisaurus sinaloa" ; Times: 1
+	Query: "bufo occidentalis sinaloa" ; Times: 1
+	Query: "micrurus distans sinaloa" ; Times: 1
+	Query: "aspidoscelis burti burti" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "urosaurus ornatus sinaloa" ; Times: 1
+	Query: "thamnophis proximus mexico" ; Times: 2
+	Query: "Sistrurus catenatus 1993" ; Times: 1
+	Query: "Gopherus agassizii 1992" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "Glandirana rugosa" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 3
+	Query: "sceloporus horridus sinaloa" ; Times: 1
+	Query: "recordedby:Armitage" ; Times: 1
+	Query: "berlandieri stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus 1974" ; Times: 1
+	Query: "Gopherus agassizii 1972" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "imantodes gemmistratus sinaloa" ; Times: 1
+	Query: "hyla bistincta" ; Times: 1
+	Query: "genus:phrynosoma locality:Sandy Beach" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "crocodylus acutus sinaloa" ; Times: 1
+	Query: "Sistrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "genus:hemidactylium class:Amphibia stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Hyla bistincta" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "dipsosaurus dorsalis sinaloa" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Columbus&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gopherus agassizii 1986" ; Times: 1
+	Query: "ctenosaura hemilopha sinaloa" ; Times: 1
+	Query: "crotalus willardi mexico" ; Times: 6
+	Query: "Gopherus agassizii 1982" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "Pseudacris triseriata UAZ Arizona" ; Times: 2
+	Query: "masticophis flagellum sinaloa" ; Times: 1
+	Query: "bufo kellogi sinaloa" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 2
+	Query: "specificepithet:compactilis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1986" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1985" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1982" ; Times: 1
+	Query: "sceloporus magister sinaloa" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "incilius cristatus" ; Times: 1
+	Query: "sympholis sinaloa" ; Times: 2
+	Query: "Lithobates chiricahuensis 1994" ; Times: 1
+	Query: "Lithobates chiricahuensis 1995" ; Times: 1
+	Query: "Lithobates chiricahuensis 1992" ; Times: 1
+	Query: "Lithobates chiricahuensis 2003" ; Times: 1
+	Query: "Lithobates chiricahuensis 1990" ; Times: 1
+	Query: "leptotyphlops sonora" ; Times: 1
+	Query: "Gopherus agassizii 1997" ; Times: 1
+	Query: "oxybelis aeneus sinaloa" ; Times: 1
+	Query: "crotalus stejnegeri sinaloa" ; Times: 1
+	Query: "Gopherus agassizii 1996" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "eleutherodactylus interorbitalis sinaloa" ; Times: 2
+	Query: "ponderosa Pinus" ; Times: 1
+	Query: "painted wood turtle" ; Times: 1
+	Query: "boa sinaloa" ; Times: 3
+	Query: "hemidactylus sinaloa" ; Times: 1
+	Query: "crotalus molossus sinaloa" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2007" ; Times: 1
+	Query: "Pseudoficimia frontalis" ; Times: 2
+	Query: "anaxyrus cognatus sinaloa" ; Times: 1
+	Query: "pogonomyrmex" ; Times: 1
+	Query: "Lithobates chiricahuensis 1996" ; Times: 1
+	Query: "Gopherus agassizii 1991" ; Times: 1
+	Query: "specificepithet:mcallii county:&#34;imperial&#34;" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1995" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1996" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 2
+	Query: "Lithobates chiricahuensis 1989" ; Times: 1
+	Query: "Lithobates chiricahuensis 1988" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "Lithobates chiricahuensis 1985" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "Lithobates chiricahuensis 1987" ; Times: 1
+	Query: "Lithobates chiricahuensis 1986" ; Times: 1
+	Query: "Lithobates chiricahuensis 1981" ; Times: 1
+	Query: "specificepithet:compactilis stateprovince:&#34;durango&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lithobates chiricahuensis 1983" ; Times: 1
+	Query: "Lithobates chiricahuensis 1982" ; Times: 1
+	Query: "urosaurus bicarinatus sinaloa" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "crotalus tlaxcala" ; Times: 2
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "class:Reptilia locality:Gulf of Calif country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:helodermatidae &#34;snout vent length&#34;" ; Times: 1
+	Query: "Gopherus agassizii 1980" ; Times: 1
+	Query: "Lithobates chiricahuensis 1980" ; Times: 1
+	Query: "craugastor augusti jalisco" ; Times: 1
+	Query: "hypsiglena sinaloa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 1308 download events in this period)
+Total number of records downloaded: 11463
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 26
+	Country: Rwanda ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 13
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 12
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-28 ; Times: 6
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Conopsis biserialis" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "hyla bistincta" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Gyalopion quadrangulare" ; Times: 1
+	Query: "vntype:specimen specificepithet:tesselatus genus:Aspidoscelis" ; Times: 1
+	Query: "class:Reptilia locality:Catalina stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalina class:reptilia stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "sphaerodactylus macrolepis" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sympholis lippiens" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "order:anura lifestage:adult lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "chuckwalla" ; Times: 2
+	Query: "Pseudoficimia frontalis" ; Times: 1
+	Query: "yonahlossee" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "reptilia stateprovince:&#34;arizona&#34; distance(location,geopoint(33.9811704087733,-114.3090985705079))&lt;100000" ; Times: 1
+	Query: "berlandieri specificepithet:berlandieri genus:Rana stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "Squamata country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "genus:gyrinophilus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Sonora stramineus" ; Times: 2
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "family:helodermatidae &#34;snout vent length&#34;" ; Times: 1
+	Query: "Sonora occipitalis" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "genus:bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
