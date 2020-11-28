@@ -1,0 +1,296 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 2344
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 58
+	Country: Unknown ; Times: 9
+	Country: Guatemala ; Times: 1
+	Country: United States ; Times: 121
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-19 ; Times: 6
+	Date: 2020-10-08 ; Times: 7
+	Date: 2020-10-12 ; Times: 3
+	Date: 2020-10-13 ; Times: 6
+	Date: 2020-10-10 ; Times: 4
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 12
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-14 ; Times: 7
+	Date: 2020-10-15 ; Times: 4
+	Date: 2020-10-03 ; Times: 3
+	Date: 2020-10-23 ; Times: 14
+	Date: 2020-10-22 ; Times: 7
+	Date: 2020-10-21 ; Times: 5
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-27 ; Times: 5
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-24 ; Times: 3
+	Date: 2020-10-01 ; Times: 13
+	Date: 2020-10-30 ; Times: 28
+	Date: 2020-10-29 ; Times: 12
+	Date: 2020-10-02 ; Times: 9
+	Date: 2020-10-05 ; Times: 10
+	Date: 2020-10-07 ; Times: 8
+	Date: 2020-10-17 ; Times: 3
+	Date: 2020-10-06 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 1
+	Query: "genus:Senticolis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:bordai genus:Phyllodactylus institutioncode:UAZ" ; Times: 1
+	Query: "44356" ; Times: 2
+	Query: "specificepithet:davisi genus:Phyllodactylus institutioncode:UAZ" ; Times: 1
+	Query: "41813" ; Times: 2
+	Query: "uta 394" ; Times: 3
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Nerodia erythrogaster México" ; Times: 1
+	Query: "zebra sex:female hasmass:1" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "specificepithet:Zonata county:&#34;Ventura&#34;" ; Times: 2
+	Query: "order:Caudata county:&#34;Iberville&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:diadophis county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;mohave&#34; specificepithet:viridis" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "UAZ 23465" ; Times: 1
+	Query: "uta 1232" ; Times: 1
+	Query: "hassex:1 hasmass:1 zebra" ; Times: 1
+	Query: "retiformis vekol" ; Times: 1
+	Query: "Crotalus stejnegeri" ; Times: 1
+	Query: "Sierra Madre Occidental" ; Times: 3
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:UAZ" ; Times: 1
+	Query: "Mixcoatlus melanurus" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "genus:Chionactis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:woodhousei family:bufonidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "specificepithet:pectinata genus:Ctenosaura stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Anolis barkeri" ; Times: 3
+	Query: "genus:Coleonyx county:&#34;Inyo&#34;" ; Times: 1
+	Query: "genus:pelamis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Presidio&#34;" ; Times: 1
+	Query: "04622" ; Times: 1
+	Query: "Incilius cristatus" ; Times: 7
+	Query: "plestiodon brevirostris" ; Times: 3
+	Query: "UAZ 15327" ; Times: 1
+	Query: "specificepithet:IGUANA genus:iguana stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "EEG" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "genus:hypsiglena county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "09550" ; Times: 1
+	Query: "genus:trimorphodon county:&#34;riverside&#34;" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 4
+	Query: "phrynosoma ditmarsi" ; Times: 3
+	Query: "stateprovince:&#34;Texas&#34; (sistrurus)" ; Times: 2
+	Query: "monster" ; Times: 2
+	Query: "specificepithet:Triangulum genus:Lampropeltis county:&#34;Yavapai&#34;" ; Times: 1
+	Query: "class:Reptilia catalognumber:25910" ; Times: 1
+	Query: "bezy coulterville Thamnophis" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:UAZ" ; Times: 1
+	Query: "sonorae waterman" ; Times: 1
+	Query: "Incilius occidentalis" ; Times: 4
+	Query: "diamondback terrapin" ; Times: 2
+	Query: "genus:Gyalopion stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:lineola genus:Pseudoeurycea stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;mohave&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jackson&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 4
+	Query: "genus:Craugastor specificepithet:lineatus" ; Times: 1
+	Query: "mixcoatlus melanurus" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;mohave&#34; specificepithet:pyromelana" ; Times: 1
+	Query: "specificepithet:deserti genus:Tarentola institutioncode:UAZ" ; Times: 1
+	Query: "mappable:1 scientificname:Boa constrictor" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Leptodeira stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;utah&#34; specificepithet:&#34;triangulum&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "bezy azul" ; Times: 1
+	Query: "bezy 1961" ; Times: 1
+	Query: "bezy 1960" ; Times: 1
+	Query: "specificepithet:burti genus:Aspidoscelis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "genus:Phyllorhynchus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:Triangulum genus:Lampropeltis county:&#34;Coconino&#34;" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:UAZ" ; Times: 1
+	Query: "INCILIUS cristatus" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jackson&#34; stateprovince:&#34;Missouri&#34; year &gt;= 1880 year &lt;= 1905 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bezy thamnophis coulterville" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UAZ" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Thamnophis bezy coulterville" ; Times: 1
+	Query: "Anolis petersi" ; Times: 2
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UAZ" ; Times: 1
+	Query: "mappable:1 scientificname:Leptodeira annulata" ; Times: 1
+	Query: "retiformis pima" ; Times: 5
+	Query: "43733" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;tooele&#34;" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UAZ" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "UAZ 01245" ; Times: 1
+	Query: "smooth green snake" ; Times: 2
+	Query: "genus:tantilla county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "Crotalus pusillus" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (catenatus)" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "Craugastor alfredi" ; Times: 10
+	Query: "Bufo cristatus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UAZ" ; Times: 1
+	Query: "Coniophanes piceivittis" ; Times: 1
+	Query: "specificepithet:unctus genus:Phyllodactylus institutioncode:UAZ" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "ornate box turtle" ; Times: 1
+	Query: "specificepithet:molossus genus:crotalus county:&#34;yuma&#34;" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 2
+	Query: "recordedby:Beckwith" ; Times: 2
+	Query: "PHRYNOSOMA BRACONNIERI" ; Times: 1
+	Query: "UAZ Xantusia Cabeza" ; Times: 1
+	Query: "Incilius cavifrons" ; Times: 5
+	Query: "(glidewell)" ; Times: 1
+	Query: "Elgaria paucicarinata" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 10
+	Query: "genus:iguana stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Mariposa&#34; institutioncode:UAZ" ; Times: 1
+	Query: "gastrophryne pima" ; Times: 1
+	Query: "specificepithet:gemmistratus genus:imantodes stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Homonota institutioncode:UAZ" ; Times: 1
+	Query: "ophryacus undulatus" ; Times: 1
+	Query: "(diamondback terrapin)" ; Times: 2
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 5
+	Query: "42953" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 1521 download events in this period)
+Total number of records downloaded: 9637
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Samoa ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 43
+	Country: Ethiopia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 14
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 6
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 10
+	Date: 2020-10-16 ; Times: 4
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-05 ; Times: 5
+	Date: 2020-10-07 ; Times: 7
+	Date: 2020-10-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coleonyx brevis" ; Times: 2
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Plethodon cinereus&#34; AND &#34;michigan&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "plestiodon brevirostris" ; Times: 3
+	Query: "Atropoides" ; Times: 1
+	Query: "cerrophidion godmani" ; Times: 1
+	Query: "genus:Rana haslength:1" ; Times: 1
+	Query: "Sierra Madre Occidental" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 2
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "genus:Ambystoma lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "INCILIUS cristatus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mixcoatlus melanurus" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 3
+	Query: "phrynosoma ditmarsi" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "order:Caudata county:&#34;Iberville&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "order:anura stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Bipes biporus" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "class:Amphibia county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "ophryacus undulatus" ; Times: 1
+	Query: "Anolis barkeri" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "ameiva exsul" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "recordedby:Beckwith" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "smooth green snake" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
