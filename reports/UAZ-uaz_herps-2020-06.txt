@@ -1,0 +1,161 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 116
+Number of records retrieved in searches: 670
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: South Africa ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 70
+	Country: Sweden ; Times: 20
+	Country: Peru ; Times: 3
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-21 ; Times: 3
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-05 ; Times: 12
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-25 ; Times: 1
+	Date: 2020-06-08 ; Times: 12
+	Date: 2020-06-09 ; Times: 8
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 6
+	Date: 2020-06-04 ; Times: 11
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 26
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-11 ; Times: 2
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "trimorphodon texas" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Atlantico&#34; country:&#34;Colombia&#34; institutioncode:UAZ" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Atlantico&#34; country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Aspidoscelis opatae" ; Times: 1
+	Query: "rough-skinned newt oregon marion" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:callicephalus genus:Plestiodon county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; (Patagonia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 18
+	Query: "genus:aspidoscelis county:&#34;pinal&#34;" ; Times: 1
+	Query: "northwestern salamander oregon" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "genus:Micruroides county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2010 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1990 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis county:&#34;grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "oedipina uniformis" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:catesbeiana genus:Rana stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2000 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eastern coyote" ; Times: 3
+	Query: "genus:uma locality:cristobal county:&#34;yuma&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:sistrurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1880 year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Greenlee&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;Mexico&#34; Opheodrys" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "tantilla rubra" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Peru&#34;" ; Times: 5
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "RT 286" ; Times: 3
+	Query: "genus:Micruroides county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2010 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:callicephalus genus:Plestiodon county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; year &gt;= 2010 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;La Paz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "uaz bezy Gyalopion" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "class:Reptilia locality:Barranquilla country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:rufipunctatus genus:Thamnophis year &gt;= 1990" ; Times: 2
+	Query: "stilosoma" ; Times: 2
+	Query: "genus:Micruroides county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Micruroides county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1880 year &lt;= 1920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "pit viper" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "box turtle" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rufipunctatus genus:Thamnophis country:&#34;United States&#34; year &gt;= 1990" ; Times: 1
+	Query: "smooth green snake" ; Times: 1
+	Query: "genus:uma locality:wellton county:&#34;yuma&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "rough-skinned newt oregon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 474 download events in this period)
+Total number of records downloaded: 1629
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "rough-skinned newt oregon marion" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "american beaver" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+
+
+End of report.
