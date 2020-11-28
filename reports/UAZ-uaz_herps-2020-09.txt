@@ -1,0 +1,236 @@
+Report for Institution Code UAZ, Resource uaz_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 1682
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 3
+	Country: Finland ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 112
+	Country: Ireland ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-03 ; Times: 5
+	Date: 2020-09-02 ; Times: 6
+	Date: 2020-09-01 ; Times: 5
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 2
+	Date: 2020-09-04 ; Times: 3
+	Date: 2020-09-21 ; Times: 12
+	Date: 2020-09-20 ; Times: 6
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-22 ; Times: 7
+	Date: 2020-09-25 ; Times: 9
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-29 ; Times: 24
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 8
+	Date: 2020-09-11 ; Times: 4
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-18 ; Times: 13
+	Date: 2020-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "ASU Lithobates" ; Times: 1
+	Query: "specificepithet:bordai genus:Phyllodactylus institutioncode:UAZ" ; Times: 2
+	Query: "tigris yavapai prescott" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "uaz Thamnophis coulterville" ; Times: 1
+	Query: "specificepithet:davisi genus:Phyllodactylus institutioncode:UAZ" ; Times: 2
+	Query: "bezy uaz coulterville" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "Crotalus pricei arizona" ; Times: 3
+	Query: "tribolonotus novaeguineae" ; Times: 1
+	Query: "Rhadinaea cuneata" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Tehuantepec genus:Sphaerodactylus" ; Times: 2
+	Query: "specificepithet:glaucus genus:Sphaerodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:alvarius family:Bufonidae stateprovince:&#34;Sinaloa&#34;" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;inyo&#34;" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "specificepithet:fasciata genus:Homonota institutioncode:UAZ" ; Times: 2
+	Query: "hemidactylium scutatum maryland" ; Times: 1
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:UAZ" ; Times: 2
+	Query: "specificepithet:dulcis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;imperial&#34;" ; Times: 4
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1946 year &lt;= 1950" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 4
+	Query: "specificepithet:imperialis genus:coniophanes stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Houston Toad" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "specificepithet:alvarius genus:Bufo stateprovince:&#34;Sinaloa&#34;" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "specificepithet:Fulgidus genus:Oxybelis country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "Crotalus willardi sonora" ; Times: 2
+	Query: "mummy" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;riverside&#34;" ; Times: 1
+	Query: "Salvadora mexicana México" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "western hognose" ; Times: 2
+	Query: "Micruroides arizona" ; Times: 3
+	Query: "monster" ; Times: 1
+	Query: "Thamnophis 8865" ; Times: 2
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:UAZ" ; Times: 2
+	Query: "Gambelia baja california sur" ; Times: 1
+	Query: "crotalus willardi arizona cochise" ; Times: 1
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "specificepithet:deserti genus:Tarentola institutioncode:UAZ" ; Times: 2
+	Query: "Hyla wrightorum arizona" ; Times: 1
+	Query: "thamnophis pulchrilatus" ; Times: 1
+	Query: "crotalus lepidus hidalgo" ; Times: 1
+	Query: "genus:Masticophis locality:Columbus" ; Times: 2
+	Query: "specificepithet:regilla county:&#34;fresno&#34;" ; Times: 1
+	Query: "emydoidea blanding" ; Times: 2
+	Query: "genus:gambelia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis country:&#34;MEXICO&#34;" ; Times: 2
+	Query: "bezy seven springs" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:UAZ" ; Times: 2
+	Query: "aspidoscelis tigris yavapai" ; Times: 1
+	Query: "Rhadinaea hesperia" ; Times: 1
+	Query: "genus:plethodon stateprovince:&#34;idaho&#34;" ; Times: 2
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UAZ" ; Times: 2
+	Query: "specificepithet:pipiens genus:Rana stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "genus:boa stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "specificepithet:arizonense genus:Kinosternon stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UAZ" ; Times: 2
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:mesoscincus country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "genus:Ascaphus stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "genus:Bothrops stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UAZ" ; Times: 2
+	Query: "uaz 23745" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops stateprovince:&#34;Loreto&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "UAZ Thamnophis coulterville" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1951 year &lt;= 1955" ; Times: 1
+	Query: "tigris yavapai" ; Times: 3
+	Query: "storeria storerioides" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UAZ" ; Times: 2
+	Query: "specificepithet:unctus genus:Phyllodactylus institutioncode:UAZ" ; Times: 2
+	Query: "crotalus willardi arizona" ; Times: 6
+	Query: "Bocoyna chihuahua" ; Times: 1
+	Query: "CROTALUS TRISERIATUS" ; Times: 2
+	Query: "Craugastor tarahumaraensis" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "bocoyna chihuahua" ; Times: 4
+	Query: "31631" ; Times: 1
+	Query: "genus:Gyalopion county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Elgaria paucicarinata" ; Times: 2
+	Query: "seven springs bezy" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Coleonyx stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "specificepithet:gemmistratus genus:imantodes stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "genus:Coleonyx county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:tanzeri genus:Hypsiglena stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "38572" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 976 download events in this period)
+Total number of records downloaded: 7134
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Fiji ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 25
+	Country: Colombia ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 6
+	Date: 2020-09-15 ; Times: 4
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhadinaea decorata" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "storeria storerioides" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Smilisca fodiens México" ; Times: 4
+	Query: "Salvadora mexicana México" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Hypopachus variolosus México" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "Rhadinaea hesperia" ; Times: 1
+	Query: "genus:Coleonyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "thamnophis pulchrilatus" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:angulatus genus:Helicops stateprovince:&#34;Loreto&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "Rhadinaea cuneata" ; Times: 1
+
+
+End of report.
